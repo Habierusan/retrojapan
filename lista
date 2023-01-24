@@ -1,9 +1,8 @@
 {
-   "name":"Prueba wise",
-   "author":"Javito",
+"author":"Javito",
    "image":"https://png.pngtree.com/thumb_back/fw800/background/20201009/pngtree-80s-neon-light-retro-background-image_400861.jpg",
    "info":"Prueba para wiseplay",
-   "url":"https://raw.githubusercontent.com/Habierusan/retrojapan/main/lista",
+   "url":"https://pastebin.com/raw/ezMk28NR",
    "groups":[
       {
          "name":"Lista de Javito",
@@ -11,7 +10,7 @@
          "info":"Lista",
          "stations":[
             {
-               
+ 
             }
          ]
       },
@@ -40,9 +39,9 @@
                "url":"https://ok.ru/video/2420906265186",
                "isHost":"true"
 	    },{
-               "name":"La tumba de las luciérnagas (1998)",
-               "image":"https://images.justwatch.com/poster/183501265/s592/grave-of-the-fireflies",
-               "url":"https://sbchill.com/2cbqvwt0wdt6",
+               "name":"Elvis (2022)",
+               "image":"https://pics.filmaffinity.com/Elvis-721812711-large.jpg",
+               "url":"https://upstream.to/nvfo4qfjfxnx",
                "isHost":"true"
             }]
        }]
