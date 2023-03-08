@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evangelion/images/f/f5/Shinji_usa_el_tel%C3%A9fono_EP01.png/revision/latest?cb=20140115122205&path-prefix=es",capitulo 1
-https://archive.org/details/evangelioncastellano/01+-+El+ataque+del+%C3%81ngel.mp4
+https://archive.org/embed/evangelioncastellano/01%20-%20El%20ataque%20del%20%C3%81ngel.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evangelion/images/0/04/NGE02_96.png/",capitulo 2
 https://archive.org/details/evangelioncastellano/02+-+Un+techo+desconocido.mp4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/evangelion/images/7/79/Episode_3-_A_Transfer.png",capitulo 3
