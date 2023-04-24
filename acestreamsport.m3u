@@ -91,7 +91,7 @@ acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1,GOL TV [1080]
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
-#EXTINF:-1,M. Golf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7789_424_1_C00000_0_0_0.png",M. Golf
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1,Teledeporte TDP [1080]
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
