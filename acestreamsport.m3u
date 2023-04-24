@@ -17,7 +17,7 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1,DAZN 1 [720]
 acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772A_416_1_C00000_0_0_0.pngg",DAZN 2 [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772A_416_1_C00000_0_0_0.png",DAZN 2 [1080]
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772A_416_1_C00000_0_0_0.png",DAZN 2 [720]
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
