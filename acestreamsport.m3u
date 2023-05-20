@@ -93,9 +93,9 @@ acestream://d4627f7b6b237a8556819445b3283d866caceca2
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png",Teledeporte TDP [1080]
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/295/png-clipart-esport3-television-channel-tv3-televisio-de-catalunya-weekend-media-television-text.png",Sport Tv3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png",Sport Tv3
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/551/png-transparent-be-mad-tv-logo-telecinco-angry-cow-logo-television-blue-angle.png",BE MAD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",BE MAD
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/44529886/229460446-abbfdb53-7fd9-46c2-83ae-fbb0d6b50ac9.png",#0 
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
