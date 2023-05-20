@@ -81,13 +81,13 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 #EXTINF:-1,EuroSport 1 [1080]
 acestream://40da37534656efcc6179c1b7693335d5e8212e43
-#EXTINF:-1,EuroSport 2 [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png",EuroSport 2 [1080]
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7508_420_1_C00000_0_0_0.png",#Vamos [1080]
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7508_420_1_C00000_0_0_0.png",#Vamos [720]
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1,GOL PLAY [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL PLAY [1080]
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1,GOL TV [1080]
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
