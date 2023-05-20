@@ -99,7 +99,7 @@ acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1,BE MAD
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1,#0
+#EXTINF:-1, tvg-logo="https://user-images.githubusercontent.com/44529886/229460446-abbfdb53-7fd9-46c2-83ae-fbb0d6b50ac9.png",#0 
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1,BARCA TV HD
 acestream://65c141632af256d70da66c767ba74360042b4396
