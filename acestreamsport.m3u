@@ -59,7 +59,7 @@ acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado2V.png?fit=440%2C264&ssl=1",LaLiga Smartbank 2 [720]
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1,LaLiga Smartbank 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7606_408_1_C00000_0_0_0.png",LaLiga Smartbank 3 
 acestream://1104426e14b649eb23fee16698768544285de478
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7793_424_1_C00000_0_0_0.png",LaLiga Tv Bar [1080]
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
