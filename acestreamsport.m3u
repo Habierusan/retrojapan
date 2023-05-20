@@ -47,9 +47,9 @@ acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C4_40A_1_C00000_0_0_0.png",M. Liga de Campeones 5 [SD]
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF:-1,M. Liga de Campeones 6 [SD]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Movistar_Liga_de_Campeones_6.png",M. Liga de Campeones 6 [SD]
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-#EXTINF:-1,M. Liga de Campeones 7 [SD]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png",M. Liga de Campeones 7 [SD]
 acestream://d84a90adb6998083403f610ab3fae340b5711b1e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",LaLiga Smartbank [1080]
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
@@ -69,9 +69,9 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_778F_424_1_C00000_0_0_0.png",M. Deportes [720]
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1,M. Deportes 2 [1080]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png",M. Deportes 2 [1080]
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1,M. Deportes 3 [1080]
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png",M. Deportes 3 [1080]
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png",M. Deportes 4 [1080]
 acestream://08db089084ddbaceba7c239817407bf99708b9ad
@@ -93,13 +93,13 @@ acestream://d4627f7b6b237a8556819445b3283d866caceca2
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png",Teledeporte TDP [1080]
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1,Sport Tv3
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/295/png-clipart-esport3-television-channel-tv3-televisio-de-catalunya-weekend-media-television-text.png",Sport Tv3
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1,BE MAD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/551/png-transparent-be-mad-tv-logo-telecinco-angry-cow-logo-television-blue-angle.png",BE MAD
 acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/44529886/229460446-abbfdb53-7fd9-46c2-83ae-fbb0d6b50ac9.png",#0 
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,REAL MADRID TV [1080]
+#EXTINF:-1 tvg-logo="https://meteoalcorcon.es/12_real_madrid_tv.png",REAL MADRID TV [1080]
 acestream://0827cf7d290967985892965c6e61244a479d6dcd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76C2_40E_1_C00000_0_0_0.png",LA 1 [1080]
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
