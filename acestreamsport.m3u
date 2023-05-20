@@ -23,7 +23,7 @@ acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 #EXTINF:-1,DAZN 3 [1080]
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1,DAZN 4 [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C0_40A_1_C00000_0_0_0.png",DAZN 4 [1080]
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A4_41C_1_C00000_0_0_0.png",Dazn F1 1080
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
@@ -73,9 +73,9 @@ acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 #EXTINF:-1,M. Deportes 3 [1080]
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1,M. Deportes 4 [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png",M. Deportes 4 [1080]
 acestream://08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C8_40A_1_C00000_0_0_0.png"M. Deportes 5 [1080]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C8_40A_1_C00000_0_0_0.png",M. Deportes 5 [1080]
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1,M. Deportes 6 [1080]
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
