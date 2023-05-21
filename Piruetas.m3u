@@ -1,8 +1,8 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1375689050661&type=32&idx=11&tkn=FIV_LhJ2IROocmRDj4IwQwwonTE&fn=external_8",Opening Español
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xIkTyTRE9b0/hqdefault.jpg",Opening Español
 https://www.youtube.com/watch?v=xIkTyTRE9b0
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1375689050661&type=32&idx=11&tkn=FIV_LhJ2IROocmRDj4IwQwwonTE&fn=external_8",Opening Japonés
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MvE9XEs8rI8/hqdefault.jpg",Opening Japonés
 https://www.youtube.com/watch?v=BVV2uzWK5e8
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1375689050661&type=32&idx=11&tkn=FIV_LhJ2IROocmRDj4IwQwwonTE&fn=external_8",01 - Aspirantes para gimnasia rítmica
 https://ok.ru/video/3127274441253
@@ -42,5 +42,5 @@ https://ok.ru/video/3127276407333
 https://ok.ru/video/3127276472869
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1375875566117&type=32&idx=3&tkn=BgtCKZppMl6X8ozZQ_p-2YMWuZw&fn=external_8",19 - Convertir un sueño en realidad
 https://ok.ru/video/3127276538405
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1375875566117&type=32&idx=3&tkn=BgtCKZppMl6X8ozZQ_p-2YMWuZw&fn=external_8",Ending Japonés
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=3756704008911&type=32&idx=11&tkn=7lnMoWLicIc7DTk6A49Wnzbsynk&fn=external_8",Ending Japonés
 https://ok.ru/video/5478847154895
