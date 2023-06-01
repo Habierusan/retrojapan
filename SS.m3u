@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/A9BIcIJ1uZc/hqdefault.jpg",Opening Español
+https://www.youtube.com/watch?v=A9BIcIJ1uZc
 #EXTINF:-1 tvg-logo="https://saintseiya.fandom.com/es/wiki/Episodio_001?file=Patriarca_10.jpg",01 - Cuando Seiya viste la armadura de Pegaso
 https://ok.ru/video/1200488581693
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/saintseiya/images/9/94/Seiya-Pegaso_162.JPG/revision/latest?cb=20141205212437&path-prefix=es",02 - Los meteoros de Pegaso
