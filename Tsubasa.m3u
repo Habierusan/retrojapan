@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1319345916497&type=32&idx=8&tkn=nFC-lJQPhMXdYkxrobzwZggC_I0&fn=external_8",Opening ESPAÑOL
+https://www.youtube.com/watch?v=7bwkqCpjMLI
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1319345916497&type=32&idx=8&tkn=nFC-lJQPhMXdYkxrobzwZggC_I0&fn=external_8",01 - El gran desafío
 https://ok.ru/video/4465248111254
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1319271008849&type=32&idx=4&tkn=XJuNKROI6icTIvMwjdssY219vOo&fn=external_8",02 - Dos equipos rivales
@@ -254,5 +256,5 @@ https://ok.ru/video/4465797302934
 https://ok.ru/video/4465797499542
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1319998327377&type=32&idx=2&tkn=DjLNiKVnvyyDTAZh3JtzirpDK_M&fn=external_8",127 - Mi compañero de equipo Tom
 https://ok.ru/video/4465797892758
-#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1319998327377&type=32&idx=2&tkn=DjLNiKVnvyyDTAZh3JtzirpDK_M&fn=external_8",128 - Un ejército de campeones
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/videoPreview?id=1320004553297&type=32&idx=12&tkn=wh9SvjnQAW72GnffSVftHlDc0ms&fn=external_8",128 - Un ejército de campeones
 https://ok.ru/video/4465797958294
