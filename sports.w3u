@@ -1,0 +1,17 @@
+{
+	"name": "JAVISPORT⚽(Capado Vodafone)",
+	"author": "Javito (actualizada 29/07/23)",
+	"image": "https://i.gifer.com/origin/7e/7eb0ad158f2041e10664fdd5a0a63d6b.gif",
+	"info": "Sección de deportes de Javito",
+	"url": "https://pastebin.com/NWu0vUUq",
+	"groups": [{
+		"name": "DEPORTES Acestream",
+		"image": "https://ituser.info/produse_img/acestream.gif",
+		"info": "Canales de deportes",
+		"online": "true",
+		"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/acestreamsport.m3u",
+		"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+		"import": "true"
+	}
+   ]
+}
