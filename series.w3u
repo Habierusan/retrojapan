@@ -1,0 +1,1592 @@
+{
+	"name": "JAVISERIES📺(Capado Vodafone)",
+	"author": "Javito  (actualizada 01/09/23)",
+	"image": "https://i.gifer.com/CZTw.gif",
+	"info": "Selección de series de Javito",
+	"url": "https://pastebin.com/japqhReE",
+	"groups": [{
+
+			"name": "ANIME",
+			"image": "https://www.icegif.com/wp-content/uploads/2023/03/icegif-1345.gif",
+			"info": "Series anime",
+			"groups": [{
+					"name": "Ataque a los titanes (2013)",
+					"image": "https://www.selecta-vision.com/wp-content/uploads/ataque-a-los-titanes-4.png",
+					"info": "Hace cien años, los titanes atacaron y diezmaron a la humanidad. Para sobrevivir, esta se recluyó en grandes ciudades amuralladas, creyendo que estaría segura para siempre. Pero, cien años después de aquel ataque, un titán colosal hace su aparición en una de las urbes, destruye el parapeto y permite que sus congéneres menores devoren de nuevo a los hombres.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2015/06/Ataque-a-los-Titanes-Temporada-1-Parte-1.jpg",
+							"stations": [{
+									"name": "01 - A ti, 2,000 años en el futuro. La caída de Shiganshina - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4456.jpg",
+									"url": "https://upstream.to/3v8o8iaqvhg6",
+									"isHost": true
+								},
+								{
+									"name": "02 - Ese día. La caída de Shiganshina - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4457.jpg",
+									"url": "https://upstream.to/dff7s25gdmc7",
+									"isHost": true
+								},
+								{
+									"name": "03 - Una luz brilla torpemente en medio de la desesperación. La humanidad se levanta de nuevo - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4458.jpg",
+									"url": "https://upstream.to/5d7k8oqmh1qt",
+									"isHost": true
+								},
+								{
+									"name": "04 - La noche de la ceremonia de graduación. La humanidad se levanta de nuevo - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4459.jpg",
+									"url": "https://gamovideo.net/gmcnkjxzmvbn",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "05 - Primera batalla. La batalla de Trost - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4460.jpg",
+									"url": "https://gamovideo.net/yfn09847wlz1",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "06 - El mundo a los ojos de la chica. La batalla de Trost - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4461.jpg",
+									"url": "https://easycdn.es/1/series/capi/capitulo_4461.jpg",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "07 - Una pequeña hoja. La batalla de Trost - Tercera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4462.jpg",
+									"url": "https://gamovideo.net/8pq42izr9kx9",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "08 - Oigo sus latidos. La batalla de Trost - Cuarta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4463.jpg",
+									"url": "https://gamovideo.net/qqpmkfxy5lx2",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "09 - El paradero del brazo izquierdo. La batalla de Trost - Quinta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4464.jpg",
+									"url": "https://gamovideo.net/9n65pgfxvxmb",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "10 - Respuesta. La batalla de Trost - Sexta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4465.jpg",
+									"url": "https://gamovideo.net/xj1ohqf5m6df",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "11 - Símbolo. La batalla de Trost - Séptima parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4466.jpg",
+									"url": "https://gamovideo.net/7q511ab1lltq",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "12 - Herida. La batalla de Trost - Octava parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4467.jpg",
+									"url": "https://gamovideo.com/37uhcw0l4q1j",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "13 - Deseos primarios. La batalla de Trost - Novena parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4468.jpg",
+									"url": "https://gamovideo.com/3hpnk12ugpbm",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "14 - Aún no puedo mirarlo a los ojos. La noche antes de la contraofensiva - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4469.jpg",
+									"url": "https://gamovideo.net/y1kdouxyymuz",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "15 - Escuadrón de Operaciones Especiales. La noche antes de la contraofensiva - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4470.jpg",
+									"url": "https://gamovideo.com/8zzp6rnxjuwi",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "16 - Lo que hay que hacer. La noche antes de la contraofensiva - Tercera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4471.jpg",
+									"url": "https://gamovideo.com/3vnw7r6zht3k",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "17 - La titán hembra. 57.ª expedición más allá de las murallas - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4472.jpg",
+									"url": "https://gamovideo.com/50m4ptpqaolm",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "18 - Bosque de árboles gigantes. 57.ª expedición más allá de las murallas - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4473.jpg",
+									"url": "https://gamovideo.com/fx2n2g9z79d6",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "19 - Mordisco. 57.ª expedición más allá de las murallas - Tercera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4474.jpg",
+									"url": "https://gamovideo.com/xf8agt04xsj1",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "20 - Erwin Smith. 57.ª expedición más allá de las murallas - Cuarta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4475.jpg",
+									"url": "https://gamovideo.com/j7m6miiit6ep",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "21 - Golpe devastador. 57.ª expedición más allá de las murallas - Quinta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4476.jpg",
+									"url": "https://gamovideo.com/69mi38vl9cpj",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "22 - Los derrotados. 57.ª expedición más allá de las murallas - Sexta parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4477.jpg",
+									"url": "https://gamovideo.com/uc0thddr9lul",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "23 - Sonrisa. Redada en el distrito Trost - Primera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4478.jpg",
+									"url": "https://gamovideo.com/nsd0btr1nd7x",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "24 - Piedad. Redada en el distrito Trost - Segunda parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4479.jpg",
+									"url": "https://gamovideo.com/qd85nofb1p2l",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "25 - La muralla. Redada en el distrito Trost - Tercera parte",
+									"image": "https://easycdn.es/1/series/capi/capitulo_4480.jpg",
+									"url": "https://gamovideo.com/fgucr83s9mtj",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								}
+							]
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://es.web.img2.acsta.net/pictures/18/11/06/15/07/4301473.jpg",
+							"stations": [{
+									"name": "01 - El titán bestia",
+									"image": "https://guiltybit.com/wp-content/uploads/2017/04/Critica-de-Ataque-a-los-Titanes-2x01-destacada.jpg",
+									"url": "http://gamovideo.com/6amlyhjwv1ee",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "02 - He vuelto",
+									"image": "https://pictures.betaseries.com/banners/episodes/6563/e485d94d6a80a3ece145d483079b6dee.jpg",
+									"url": "http://gamovideo.com/cgxszkspw7sk",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "03 - Hacia el suroeste",
+									"image": "https://image.tmdb.org/t/p/original/aXQK5Q6NDSKQNwrj2f7k2Lxk583.jpg",
+									"url": "http://gamovideo.com/g34mpo58mjka",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "04 - Soldado",
+									"image": "https://ramenparados.com/wp-content/uploads/2017/05/Ataque-a-los-titanes-2.jpg",
+									"url": "http://gamovideo.com/7eqbix29i8l4",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "05 - Historia",
+									"image": "https://ramenparados.com/wp-content/uploads/2017/05/ataque-a-los-titanes-2-1.jpg",
+									"url": "http://gamovideo.com/9lp90flghkp7",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "06 - Guerrero",
+									"image": "https://i.ytimg.com/vi/0e0Ok8Ojsyg/maxresdefault.jpg",
+									"url": "http://gamovideo.com/ryv35l1xfo88",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "07 - Cuerpo a cuerpo",
+									"image": "https://i.ytimg.com/vi/dvD2j3oBbjc/maxresdefault.jpg",
+									"url": "http://gamovideo.com/nwngu6fvwx8r",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "08 - Los cazadores",
+									"image": "https://image.tmdb.org/t/p/original/e8Th06E10BinApSLR3rWqsER9xb.jpg",
+									"url": "http://gamovideo.com/v91wunpannbf",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "09 - Abertura",
+									"image": "https://img13.tokyvideo.com/videos/232/232714/previews/previews_0009.jpg",
+									"url": "http://gamovideo.com/zhgf5ozb4ztb",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "10 - Niños",
+									"image": "https://image.tmdb.org/t/p/original/pmGniLLcdyqov5hDJ0ZGkWioMiC.jpg",
+									"url": "http://gamovideo.com/9yj0zjyn4atn",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "11 - Carga",
+									"image": "https://i.ytimg.com/vi/L8VgZLXTv5g/maxresdefault.jpg",
+									"url": "http://gamovideo.com/3o1xhzikpato",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "12 - Grito",
+									"image": "https://image.tmdb.org/t/p/original/8IxeYsf0rHZZpfNCo3jrF335mPK.jpg",
+									"url": "http://gamovideo.com/lygikq2gwvyd",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								}
+							]
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://image.tmdb.org/t/p/original/tHRVkbcdc7eamEyfaoSMslaR3ah.jpg",
+							"stations": [{
+									"name": "01 - Señal de humo",
+									"image": "https://i0.wp.com/elpalomitron.com/wp-content/uploads/2018/07/Cr%C3%ADtica-de-Attack-on-Titan-3x01-principal-el-palomitron.jpg",
+									"url": "https://upstream.to/7ojrwtkyvakr",
+									"isHost": true
+								},
+								{
+									"name": "02 - Dolor",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/07/5-6.jpg",
+									"url": "http://gamovideo.com/ffth1a8bg9c3",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "03 - Historias del pasado",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/08/BB.jpg",
+									"url": "http://gamovideo.com/tvw2yn4cv4if",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "04 - Confianza",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/08/ataque-a-los-titanes-1.jpg",
+									"url": "http://gamovideo.com/itshvp9gsxzg",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "05 - Respuesta",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/08/1-1.jpg",
+									"url": "http://gamovideo.com/8j1gv4plo1w9",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "06 - Pecado",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/08/2-5.jpg",
+									"url": "http://gamovideo.com/yz54f2xdbq92",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "07 - Deseo",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/09/2018-09-02-21_17_38-Greenshot.jpg",
+									"url": "http://gamovideo.com/e5ejiqjzsauc",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "08 - La muralla exterior de Orvud",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/09/2018-09-09-20_50_03-Greenshot.jpg",
+									"url": "http://gamovideo.com/0uia8r7j6kmd",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "09 - La reina de la muralla",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/09/Ataque-a-los-titanes.jpg",
+									"url": "http://gamovideo.com/cvyujuzrybro",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "10 - Amigo",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/09/2018-09-23-21_27_51-Greenshot.jpg",
+									"url": "http://gamovideo.com/efsofonucw38",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "11 - Espectador",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2018/10/Ataque-a-los-titanes.jpg",
+									"url": "http://gamovideo.com/ql8h6uaknzn1",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "12 - La noche de la operación de reconquista",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2019/06/2019-06-17-15_46_44-Greenshot.jpg",
+									"url": "http://gamovideo.com/wfw1as7z0zaj",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "13 - La ciudad donde empezó todo",
+									"image": "https://ramenparados.com/wp-content/uploads/2019/04/ataque-a-los-titanes-3x13-5-1000x600.jpg",
+									"url": "http://gamovideo.com/wwce903ldzbx",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "14 - Lanzas relámpago",
+									"image": "https://cde.laprensa.e3.pe/ima/0/0/2/1/7/217921.jpg",
+									"url": "http://gamovideo.com/l1ewsq9f6bu8",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "15 - Descenso",
+									"image": "https://image.tmdb.org/t/p/original/17oFrQMejWWo029jFoJOklgycgq.jpg",
+									"url": "http://gamovideo.com/f51b9g5uzhiq",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "16 - Partido perfecto",
+									"image": "https://ramenparados.com/wp-content/uploads/2019/05/ataque-a-los-titanes-3x16-3.jpg",
+									"url": "http://gamovideo.com/vcuiw7uprxvn",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "17 - Héroe",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2019/05/Ataque-a-los-titanes-3.jpg",
+									"url": "http://gamovideo.com/nc6hkfyn9282",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "18 - Sol de medianoche",
+									"image": "https://image.tmdb.org/t/p/original/glwmnAuFZFJnbYQza2stVNUOuGW.jpg",
+									"url": "http://gamovideo.com/a23zzdjd5rou",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "19 - Sótano",
+									"image": "https://areajugones.sport.es/wp-content/uploads/2019/06/Ataque-a-los-titan.jpg",
+									"url": "http://gamovideo.com/e7ib2w0v549i",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "20 - Aquel día",
+									"image": "https://larepublica.cronosmedia.glr.pe/migration/images/34Q5USMM2NGNFPBXSQW3OACNVI.jpg",
+									"url": "http://gamovideo.com/y622tfr4lihg",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "21 - Titán de Ataque",
+									"image": "https://elpalomitron.com/wp-content/uploads/2019/06/Cr%C3%ADtica-de-Shingeki-no-Kyojin-3x21-destacada-El-Palomitr%C3%B3n.jpg",
+									"url": "http://gamovideo.com/7bcu4la14svx",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								},
+								{
+									"name": "22 - Al otro lado de las murallas",
+									"image": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/U75MSCSXORDHXJDXRGW2ZPWQBI.jpg",
+									"url": "http://gamovideo.com/85pdfsu4tkbw",
+									"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+									"isHost": true
+								}
+							]
+						},
+						{
+							"name": "Temporada 4",
+							"image": "https://sm.ign.com/ign_es/screenshot/default/eil7mgbwkaavg0d_x9va.jpg",
+							"stations": [{
+									"name": "01 - Al otro lado del mar",
+									"image": "https://sm.ign.com/ign_latam/screenshot/default/tvanimejin-ji-noju-ren-the-final-season-pvmp4still006_fnb9.jpg",
+									"url": "https://upstream.to/7p221uod956d",
+									"isHost": true
+								},
+								{
+									"name": "02 - El tren en la noche oscura",
+									"image": "https://elbocon.pe/resizer/IGRJIjixui68MJduxsDrbbdqXYc=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZJVNSWL3K5C5BCBSIVKT2YGHJ4.jpg",
+									"url": "https://upstream.to/q234c8kgknrk",
+									"isHost": true
+								},
+								{
+									"name": "03 - La puerta de la esperanza",
+									"image": "https://muyadictivo.com/wp-content/uploads/2021/01/ataque-de-los-titanes-temporada-4-episodio-3-final.jpg",
+									"url": "https://upstream.to/iq5jq8q1aynp",
+									"isHost": true
+								},
+								{
+									"name": "04 - De una mano a otra",
+									"image": "https://ramenparados.com/wp-content/uploads/2020/12/Ataque-a-los-titanes-4x04-5.png",
+									"url": "https://upstream.to/2j56mtu4dyi8",
+									"isHost": true
+								},
+								{
+									"name": "05 - Declaración de guerra",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/01/Ataque-a-los-titanes-4x05-7.png",
+									"url": "https://upstream.to/jcsia8qkag58",
+									"isHost": true
+								},
+								{
+									"name": "06 - El Titán Martillo de Guerra",
+									"image": "https://laverdadnoticias.com/__export/1605820309437/sites/laverdad/img/2020/11/19/titan_martillo_shingeki_no_kyojin.png_1451943815.png",
+									"url": "https://upstream.to/pt3d3o31um24",
+									"isHost": true
+								},
+								{
+									"name": "07 - El asalto",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/01/Ataque-a-los-titanes-4x07-1.png",
+									"url": "https://upstream.to/exf2zxssk4m1",
+									"isHost": true
+								},
+								{
+									"name": "08 - Bala asesina",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/01/Ataque-a-los-titanes-4x08-8.png",
+									"url": "https://upstream.to/1h3d7wp3pfdu",
+									"isHost": true
+								},
+								{
+									"name": "09 - Los voluntarios",
+									"image": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7a05d97e62fc9ca1a9049b13d741db27.jpe",
+									"url": "https://upstream.to/nupkky4lhplv",
+									"isHost": true
+								},
+								{
+									"name": "10 - Un argumento de peso",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/02/Ataque-a-los-titanes-4x010-2.png",
+									"url": "https://upstream.to/24dqgass2q65",
+									"isHost": true
+								},
+								{
+									"name": "11 - Impostores",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/02/Ataque-a-los-titanes-4x10-3.png",
+									"url": "https://upstream.to/pg6nejovralv",
+									"isHost": true
+								},
+								{
+									"name": "12 - Los guías",
+									"image": "https://i.ytimg.com/vi/OnQZu1vL3Ro/maxresdefault.jpg",
+									"url": "https://upstream.to/3xfonspy5hwc",
+									"isHost": true
+								},
+								{
+									"name": "13 - Los hijos del bosque",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/03/Ataque-a-los-titanes-4x13-8.png",
+									"url": "https://upstream.to/sxaivp6zc7lu",
+									"isHost": true
+								},
+								{
+									"name": "14 - Violencia",
+									"image": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/944483f657b5e19ce0956f383a28c48d.jpe",
+									"url": "https://upstream.to/e73il8h3tvx8",
+									"isHost": true
+								},
+								{
+									"name": "15 - La única salvación",
+									"image": "https://static.wikia.nocookie.net/shingeki-no-kyojin/images/2/21/Zeke_Jaeger_de_ni%C3%B1o.png/revision/latest?cb=20210318004606&path-prefix=es",
+									"url": "https://upstream.to/qxbs8a1329cw",
+									"isHost": true
+								},
+								{
+									"name": "16 - Cielo y tierra",
+									"image": "https://ramenparados.com/wp-content/uploads/2021/03/Ataque-a-los-titanes-4x16-8.png",
+									"url": "https://upstream.to/zc7rsa4j00vf",
+									"isHost": true
+								},
+								{
+									"name": "17 - Juicio",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/01/Ataque-a-los-titanes-4x17-1-1024x578.jpg",
+									"url": "https://upstream.to/amxt5hqr4hlx",
+									"isHost": true
+								},
+								{
+									"name": "18 - Ataque furtivo",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/01/Ataque-a-los-titanes-4x18-1-1000x600.jpg",
+									"url": "https://upstream.to/g9q06fq11uue",
+									"isHost": true
+								},
+								{
+									"name": "19 - Hermanos",
+									"image": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/cfd9fc28a648863144775d6b4175c54d.jpe",
+									"url": "https://upstream.to/yaqtl5twmjx1",
+									"isHost": true
+								},
+								{
+									"name": "20 - Hermanos",
+									"image": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/cfd9fc28a648863144775d6b4175c54d.jpe",
+									"url": "https://upstream.to/mq6fckmeqcxb",
+									"isHost": true
+								},
+								{
+									"name": "21 - De parte de tu yo de hace 2000 años",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/02/Ataque-a-los-titanes-4x21-5.jpg",
+									"url": "https://upstream.to/ubw8xdvzy0pi",
+									"isHost": true
+								},
+								{
+									"name": "22 - De parte de tu yo de hace 2000 años",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/02/Ataque-a-los-titanes-4x22-8.png",
+									"url": "https://upstream.to/hksuvm58r3u6",
+									"isHost": true
+								},
+								{
+									"name": "23 - Atardecer",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/02/Ataque-a-los-titanes-4x23-9.png",
+									"url": "https://upstream.to/5dtrl7ikvqg2",
+									"isHost": true
+								},
+								{
+									"name": "24 - Orgullo",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/03/Ataque-a-los-titanes-4x24-7.png",
+									"url": "https://upstream.to/3tt1d1y9u357",
+									"isHost": true
+								},
+								{
+									"name": "25 - La noche del fin",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/03/Ataque-a-los-titanes-4x25-7.png",
+									"url": "https://upstream.to/s1e9mtdg3gd8",
+									"isHost": true
+								},
+								{
+									"name": "26 - Traidor",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/03/Ataque-a-los-titanes-4x26-5.jpg",
+									"url": "https://upstream.to/ki8wpt54kw3k",
+									"isHost": true
+								},
+								{
+									"name": "27 - Retrospectiva",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/03/Ataque-a-los-titanes-4x27-1.jpg",
+									"url": "https://upstream.to/lc6upo0zc5qp",
+									"isHost": true
+								},
+								{
+									"name": "28 - El amanecer de la Humanidad",
+									"image": "https://ramenparados.com/wp-content/uploads/2022/04/Ataque-a-los-titanes-4x28-8.jpg",
+									"url": "https://upstream.to/suekgp3s4jdp",
+									"isHost": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Bateadores (1985)",
+					"image": "https://i1.whakoom.com/large/1a/2d/76d3dfb5e9814d3182967a9ba9d355bb.jpg",
+					"info": "Historia de dos hermanos gemelos, César y Carlos. Éstos, a pesar de ser gemelos, son muy diferentes. César es serio, responsable y estudioso, y resulta irresistible a las chicas, al ser la estrella del equipo de béisbol, el Mei Sei, pero sobretodo es un gran amigo. Carlos, en cambio, es un chico rebelde y gandul, tan esporádico y natural que cae bien sin intentarlo, pero no es responsable y esto le trae muchos problemas. ",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://img.betaseries.com/Fs1OuBZhnIgIY4ag3SLEBVn_6tI=/250x376/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fseasons%2F1525%2F83105-1.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Bateadores%20Temp1.m3u",
+							"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://img.betaseries.com/exzHGiNYAOH4jVyiM6ts7UrCd6E=/250x376/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fseasons%2F1525%2F83105-2.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Bateadores%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://img.betaseries.com/tijoaqJbio1_E8kwLfSJe2NW3vo=/250x376/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fseasons%2F1525%2F83105-3.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Bateadores%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 4",
+							"image": "https://easycdn.es/1/series/p/bateadores_3601.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Bateadores%20Temp4.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Campeones: Oliver y Benji (1983)",
+					"image": "https://images.justwatch.com/poster/205265114/s592/campeones-oliver-y-benji",
+					"info": "La historia comienza cuando Oliver, de 12 años de edad, se muda a Shizuoka. El chaval tiene la ilusión de jugar con el equipo más famoso de esa ciudad: el Shutetsu, en el cual milita el mejor portero de la liga nacional: Benji.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Tsubasa.m3u",
+					"import": "true"
+				},
+				{
+					"name": "Chobits (2002)",
+					"image": "https://1.bp.blogspot.com/-TCSfCA_VpII/V5U-iz8aH0I/AAAAAAAAgIE/EDXbgxAhxbEmyinZxIoNvrXjzWRSnQLIgCLcB/s1600/chobits.jpg",
+					"info": "Hideki Motosuwa es un chico de 18 años que decide ir a estudiar a Tokio, lugar en el que es muy común tener uno de los nuevos ordenadores personales, conocidos como Persocons. Estos son capaces de desarrollar funciones como las de un humano normal.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Chobits.m3u",
+					"import": "true"
+				},
+				{
+					"name": "Death Note (2006)",
+					"image": "https://static.posters.cz/image/750/posters/death-note-collage-i28406.jpg",
+					"info": "Light Yagami es un joven y brillante estudiante que un día encuentra un cuaderno llamado ''Death Note'' con poderes sobrenaturales que matan a todo aquel cuyo nombre sea escrito en él.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/DeathNote.m3u",
+					"import": "true"
+				},
+				{
+					"name": "DNA² (1993)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/4/4d/Dna2_2.jpg/revision/latest?cb=20220921012620&path-prefix=es",
+					"info": "Karin Aoi es la agente enviada desde el futuro para neutralizar los genes del futuro Mega Play-boy. Para ello, deberá disparar a Junta una bala de DCM. Pero en realidad, quiere la recompensa para poder hacer realidad su sueño: la de tener un hogar con un buen esposo y un perro.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/DNA2.m3u",
+					"import": "true"
+				},
+				{
+					"name": "Dragon Ball (1986)",
+					"image": "https://image.tmdb.org/t/p/w500/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR.jpg",
+					"info": "Son Goku es un chico muy especial que, tras la muerte de su abuelo, vive solo en el bosque. Posee una fuerza prodigiosa y parece bastante satisfecho con su vida al aire libre hasta que conoce a Bulma, una niña pija que está buscando las Bolas de Dragón, siete esferas mágicas que, una vez reunidas, pueden conceder cualquier deseo.",
+					"online": "true",
+					"url": "https://pastebin.com/uAhgnPw2",
+					"import": "true"
+				},
+				{
+					"name": "Dragon Ball Z (1989)",
+					"image": "https://picfiles.alphacoders.com/258/thumb-258566.jpg",
+					"info": "Un extraterrestre humanoide llamado Raditz llega a la Tierra en una nave espacial y rastrea a Goku, revelándole que es su hermano mayor perdido hace mucho tiempo y que son miembros de una raza guerrera alienígena casi extinta llamada Saiyajin",
+					"online": "true",
+					"url": "https://pastebin.com/RL4PE2b5",
+					"import": "true"
+				},
+				{
+					"name": "Golden Boy (1995)",
+					"image": "https://pics.filmaffinity.com/Golden_Boy_Miniserie_de_TV-671894143-large.jpg",
+					"info": "Kintaro Oe es un joven estudiante de derecho de 25 años que ha dejado la universidad porque ya ha aprendido todo lo que necesitaba de ella, y ahora recorre Japón en bicicleta, buscando nuevos trabajos que le ofrezcan cosas nuevas para aprender.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Golden%20Boy.m3u",
+					"import": "true"
+				},
+				{
+					"name": "Guardianes de la noche (2019)",
+					"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2019/4/w1280/tK4GsDa6BREEh6Hfng1tWPuq8oE.jpg",
+					"info": "Tanjiro Kamado es un chico alegre y trabajador que vive felizmente junto a su familia, hasta que un fatídico día un demonio llamado Muzan irrumpe en su vida matando a sus padres y maldice a su hermana pequeña convirtiéndola en demonio.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1 - Arco de Resolución Inquebrantable",
+							"image": "https://es.web.img3.acsta.net/pictures/19/09/18/13/46/1341879.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KnY%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2 - Arco del Tren Infinito",
+							"image": "http://misiontokyo.com/wp-content/uploads/2021/09/Kime1-1095x1536.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KnY%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3 - Arco del Distrito Rojo",
+							"image": "https://img1.ak.crunchyroll.com/i/spire2/8305f2597304549afe01c8604b32052d1642390560_main.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KnY%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "",
+							"image": "",
+							"url": "",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "",
+							"image": "",
+							"url": "",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Hell´s Paradise (2023)",
+					"image": "https://pics.filmaffinity.com/Hell_s_Paradise_Serie_de_TV-734375812-large.jpg",
+					"info": "La historia nos presenta a Gabimaru, un ninja condenado a muerte que no puede ser asesinado. Por lo que se encomendará, junto a un conjunto de personajes muy variopinto, la misión suicida de encontrar el elixir de la inmortalidad.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://images.justwatch.com/poster/306103347/s718/temporada-1.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Jigokuraku%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Jujutsu kaisen (2020)",
+					"image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/JJK_New_Key_Visual.jpg/revision/latest?cb=20200914020414&path-prefix=es",
+					"info": "Yuuji Itadori, un estudiante de secundaria, que posee una rara habilidad física, pasa sus días visitando a su abuelo que se encontra hospitalizado. Pero un día, espíritus malditos que duermen en su escuela, se liberan y aparecen criaturas fantasmas. A pesar de ello, Yuuji entra al complejo escolar para salvar a sus compañeros…!",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://a.storyblok.com/f/178900/1448x2048/b696c107e2/3a9f3cbf73e19ed6f4697a345dd8b9051648278484_main.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Jujutsu1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Kimagure Orange Road (Johnny y sus amigos) (2015)",
+					"image": "https://image.tmdb.org/t/p/w500/spa4vqIguULjaWpXmjmVGcAfWDt.jpg",
+					"info": "Kyosuke es un joven de carácter indeciso que el mismo día que se cambia de ciudad sale a pasear por su nuevo barrio y queda deslumbrado por Madoka. Las circunstancias le llevarán a salir con Hikaru, una amiga de Madoka. Sin embargo, no tardará en darse cuenta de que siempre está pensando en Madoka y hará lo posible por acercarse a ella.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KOR.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}, {
+					"name": "Los Caballeros del Zodíaco (1986)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/b/b2/LCDZ_Poster.png/revision/latest?cb=20220410222701&path-prefix=es",
+					"info": "Según cuenta la leyenda, unos jóvenes guerreros poseedores de grandes habilidades son los principales responsables de proteger a Atenea, la diosa de la guerra. Años más tarde, la princesa Saori Kido, reencarnación de la Diosa, se encuentra en peligro y necesita de esa legendaria protección.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/SS.m3u",
+					"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+					"import": "true"
+				}, {
+					"name": "Los Caballeros del Zodíaco - Hades (2002)",
+					"image": "https://static.wikia.nocookie.net/saintseiya/images/0/02/Saga_de_Hades.jpg/revision/latest?cb=20180212024946&path-prefix=es",
+					"info": "Tras 243 años, Hades, el Dios de la Muerte, regresa para sumergir a la tierra en las tinieblas y así poder gobernar el mundo. Los caballeros del Zodíaco tendrán que enfrentarlo produciéndose nuevamente la guerra milenaria que ha sostenido con la diosa desde tiempos inmemoriales.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/SSHades.m3u",
+					"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+					"import": "true"
+				}, {
+					"name": "Los Caballeros del Zodíaco: Alma de Oro (2015)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/6/6a/Saint_Seiya_Soul_of_Gold_Poster.png/revision/latest?cb=20150410043610&path-prefix=es",
+					"info": "Después de dar sus vidas para destruir el Muro de los Lamentos y así ayudar a Seiya y sus amigos llegan a Hades para proteger a Atenea, los doce caballeros de oro reaparecen en Asgard, después de ser revivido misteriosamente. Mientras busca respuestas sobre por qué fueron llevados de vuelta a la vida y por que, los Santos de Oro debe luchar contra un nuevo enemigo que amenaza Asgard.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Alma%20de%20Oro.m3u",
+					"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+					"import": "true"
+				}, {
+					"name": "Neon Genesis Evangelion (1995)",
+					"image": "https://1.bp.blogspot.com/-kLm3r9sFmS0/YRVjfARQk7I/AAAAAAAARds/SPjeKr7rABQrlCMbjmllr30zSUf7ypKswCLcBGAsYHQ/s989/cbt_neongenesisevangelion.jpg",
+					"info": "",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Evangelion.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}, {
+					"name": "One Punch-Man (2015)",
+					"image": "https://static.wikia.nocookie.net/anime/images/8/86/One_Punch_Man.jpg/revision/latest?cb=20160323160606&path-prefix=de",
+					"info": "Saitama es un poderoso superhéroe capaz de derrotar a quien se le ponga por delante con un único golpe de su puño. El joven de 25 años vive en la Ciudad Z, una zona que continuamente está siendo invadida por monstruos que aparecen de la nada. Saitama siempre consigue derrotarles pero debido a su poder, las peleas no van más allá del primer golpe.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://es.web.img2.acsta.net/pictures/19/06/18/17/07/3805209.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/OnePunchManTemp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2 - OFFLINE -",
+							"image": "",
+							"url": "",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Ranma ½ (1989)",
+					"image": "https://www.mubis.es/media/articles/24788/248648/anuncio-oficial-del-blu-ray-de-ranma-1-2-l_cover.jpg",
+					"info": "Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Ranma.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Raqueta de Oro (1973)",
+					"image": "https://m.media-amazon.com/images/M/MV5BMWNkZTE3OGMtNjNiNy00ZTg5LWEyZGMtNzAwNzUwYTFiZDEzXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+					"info": "La serie cuenta la historia de Marta Nolan, una chica de secundaria quien lucha para convertirse en una buena tenista.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Raqueta.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Raqueta de Oro 2 (1988)",
+					"image": "https://monoschinos.rs/wp-content/uploads/2021/04/ace-wo-nerae-2-raqueta-de-oro-2-castellano-4457-thumbnail.jpg",
+					"info": "Han pasado tres años desde los acontecimientos de la primera serie. Jeremías ha continuado entrenando a Marta y esta se ha convertido en la campeona absoluta junior de Japón.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Raqueta2.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Vacaciones de verano (1983)",
+					"image": "https://www.animenewsnetwork.com/hotlink/images/encyc/A1485-3049932232.1461764368.jpg",
+					"info": "Toni Wakamatsu, de 16 años, trabaja en la playa en verano. Después de causar una mala impresión en su compañera de clase Katia Kajima de la que está enamorado, prueba con otra hermosa chica. Para su sorpresa, se revela que la niña es su hermanastra más joven, Mónica, de 15 años, quien ha estado viviendo en el extranjero con su padre durante los últimos seis años.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Miyuki.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}
+			]
+		},
+
+		{
+			"name": "INFANTIL",
+			"image": "https://media.tenor.com/EQ_lam0prUAAAAAd/david-el.gif",
+			"info": "Series infantiles",
+			"groups": [{
+					"name": "Barrio Sésamo (1983)",
+					"image": "https://i.discogs.com/fHTbD8NTFHqwC8qf2xe4dkXygq8rB8aYU1s_wtWvWi0/rs:fit/g:sm/q:90/h:600/w:387/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU3/OTI2LTE1NTQyMjAy/MjUtNDk1NS5qcGVn.jpeg",
+					"info": "",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Barrio%20S%C3%A9samo.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Belfy y Lillibit (1980)",
+					"image": "https://pics.filmaffinity.com/Belfy_y_Lillibit_Serie_de_TV-899033530-mmed.jpg",
+					"info": "Belfy y Lillibit son dos niños elfos que viven con sus familias en un bosque de Lilliput. Juntos ayudan a los humanos de los alrededores y también a los animales, a resolver todo tipo de problemas.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Belfy%20y%20Lillibit.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "D´Artacan y los tres Mosqueperros (1981)",
+					"image": "https://pics.filmaffinity.com/D_Artacan_y_los_tres_mosqueperros_Serie_de_TV-743792253-large.jpg",
+					"info": "D’Artacán es un joven impulsivo e idealista que vive con sus padres en un pequeño pueblo en la Gascuña. Su único objetivo en la vida: llegar a ser como su padre, un Mosqueperro del rey. Con su caballo Rofty, D’Artacán parte a la aventura hacia París. Allí se le une como escudero Pom, un ratón pendenciero y buscavidas.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Dartacan.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "David el gnomo (1986)",
+					"image": "https://pics.filmaffinity.com/David_el_gnomo_Serie_de_TV-903681745-large.jpg",
+					"info": "Narra las aventuras en el bosque del gnomo David y su familia, con un importante trasfondo educativo en temas como ecología, amistad y justicia.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/David%20el%20gnomo.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Don Drácula (1982)",
+					"image": "https://3.bp.blogspot.com/_9Uogn_qBAgI/Sqd5anrjsjI/AAAAAAAAC4g/etzFkJPNz-0/w1200-h630-p-k-no-nu/don+dracula.jpg",
+					"info": "Don Drácula vive en Japón junto a su hijita Chócola y su sirviente Igor. El profesor Helsing llegará al país en su eterno afán de acabar con él, sólo que tiene cierta enfermedad que le dificulta bastante su misión. Cada vez que se pone nervioso, al profesor le viene una necesidad irrefrenable de visitar los lavabos.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Don%20Dr%C3%A1cula.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Dragones y mazmorras (1983)",
+					"image": "https://pics.filmaffinity.com/Dragones_y_mazmorras_Serie_de_TV-732463360-large.jpg",
+					"info": "Hank, Presto, Diana, Eric, Sheyla y Bobby son un grupo de amigos que pasan una divertida mañana de domingo en un parque de atracciones. Entran en la atracción llamada 'Dragones y mazmorras' y de pronto son transportados a un extraño lugar. Se encuentran en un mundo fantástico y no saben cómo ni porqué han llegado.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/D%26M.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "El inspector Gadget (1983)",
+					"image": "https://pictures.betaseries.com/fonds/poster/e8d44a166cc195c555b81a9f0e880718.jpg",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Gadget.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Érase una vez... (1978 - 2008)",
+					"image": "https://pbs.twimg.com/media/Ezi9oI6XIAAez5N.jpg",
+					"info": "Conjunto de series de animación francesas de 26 episodios cada una, con una duración de unos 25 minutos.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Érase una vez El hombre (1978)",
+							"image": "https://static.filmin.es/images/media/22876/1/poster_0_3.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/EraseHombre.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Érase una vez El espacio (1982)",
+							"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1982/2/w1280/5CmuSqf1Er1CltR7xGtDvTrsmLq.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/EraseEspacio.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Érase una vez La vida (1987)",
+							"image": "https://images.justwatch.com/poster/173223915/s718/erase-una-vez-el-cuerpo-humano.%7Bformat%7D",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/EraseCuerpoHumano.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Érase una vez Los inventores (1994)",
+							"image": "https://static.filmin.es/images/media/39136/1/poster_0_3.webp",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/EraseInventores.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Érase una vez Los exploradores (1996)",
+							"image": "https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F004%2F383%2Ferase-una-vez-los-exploradores-1.jpg&nuevoancho=683&medio=abc",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/EraseExploradores.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Heidi (1974)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/7/76/Heidi.jpg/revision/latest?cb=20220315003908&path-prefix=es",
+					"info": "Heidi, una niña de cinco años de edad huérfana de padre y madre, es llevada por su tía Dete a la montaña suizas de Alm a vivir con su abuelo para seguir una oferta de empleo que se le presenta en la ciudad de Fráncfort del Meno en Alemania.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Heidi.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "La pequeña Lulú (1976)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/f/f0/LaPeque%C3%B1aLulu.jpg/revision/latest?cb=20200904005554&path-prefix=es",
+					"info": "Lulú es una chica que no teme a nada y que es capaz de enfrentarse a todo para conseguir lo que quiere, incluso desafiando a los chicos.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Lul%C3%BA.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "La vuelta al mundo Willy Fog (1984)",
+					"image": "https://pics.filmaffinity.com/Willy_Fog_la_vuelta_al_mundo_en_80_d_as-834857913-large.jpg",
+					"info": "Willy Fog, un caballero inglés, se embarca en una gran aventura para ganar una apuesta: dar la vuelta al mundo en tan solo 80 días. Para ello cuenta con la ayuda de sus amigos: Rigodon y Tico, y su amada, la bella Romy.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Willy%20Fog.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Los Aurones (1987)",
+					"image": "https://pics.filmaffinity.com/los_aurones-841053852-large.jpg",
+					"info": "Tejo, Yuca y Poti-Poti viven varias aventuras luchando contra el malvado Rey Grog.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Los%20aurones.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Piruetas (1986)",
+					"image": "https://pics.filmaffinity.com/Piruetas_Serie_de_TV-804703832-large.jpg",
+					"info": "La historia trata de Valentina, una chica joven que sueña con ser una campeona en el deporte de la gimnasia rítmica. Valentina se inscribe en club de gimnasia rítmica en su escuela para poder convertirse en una gran campeona.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Piruetas.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Ruy. El pequeño Cid (1980)",
+					"image": "https://static.filmin.es/images/media/2696/2/poster_0_3.webp",
+					"info": "Ruy, el pequeño Cid es una serie de dibujos animados que relata la infancia del personaje histórico Rodrigo Díaz de Vivar, el Cid Campeador.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Ruy.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Sherlock Holmes (1984)",
+					"image": "https://www.justwatch.com/images/poster/12097929/s332/season-1",
+					"info": "Sherlock Holmes es un investigador privado que vive en Londres. Acompañado de su amigo, el doctor Watson, lucha contra los planes de su archienemigo, el profesor Moriarty.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Sherlock.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}
+			]
+		},
+
+		{
+
+			"name": "CLÁSICAS (Hasta 2010)",
+			"image": "https://cdn.themedizine.com/2018/03/willl.gif",
+			"info": "Series clásicas (hasta el año 2010)",
+			"groups": [{
+					"name": "Alf (1986)",
+					"image": "https://pics.filmaffinity.com/ALF_Serie_de_TV-895372602-large.jpg",
+					"info": "La serie sigue las aventuras del alien, llamado Alf, en su nuevo hogar en la Tierra. Cuando un objeto desconocido se estrella contra el garaje de los Tanner, lo que ellos menos esperan es encontrarse en su interior con un extraterrestre peludo y malhablado.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://m.media-amazon.com/images/I/51rY-sf4GSL._SY445_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Alf%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://m.media-amazon.com/images/I/4179gnI7AML._SY445_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Alf%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://m.media-amazon.com/images/I/41FoNREKtfL._SY445_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Alf%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 4",
+							"image": "https://es.web.img2.acsta.net/pictures/19/09/24/08/51/2620180.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Alf%20Temp4.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Búscate la vida (1990)",
+					"image": "https://3.bp.blogspot.com/-TymE2isD2rs/Vzr2G5REUhI/AAAAAAAAFVw/4D5mz71LDbIbdWUVudu_Rm8roJzNDxFRgCLcB/s1600/bu%25CC%2581scate%2Bla%2Bvida%2BRGB.jpg",
+					"info": "Chris Peterson aún es repartidor de periódicos con más de 30 años. Sus padres (que siempre van en bata) le odian, y están deseando que se independice. En cada capítulo, Chris se ve envuelto en las más surrealistas aventuras: desde participar en el concurso mundial de deletrear palabras hasta hacerse con un extraterrestre como mascota, pasando por fabricarse un zumo para viajar por el tiempo entre cuyos ingredientes se encuentra un mechón de pelo de Michael J. Fox.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://pics.filmaffinity.com/B_scate_la_vida_Serie_de_TV-709755219-large.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/BuscateVidaTemp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://grantorrent.fi/wp-content/uploads/grantorrent/MV5BMjAyMzc5MDU3OV5BMl5BanBnXkFtZTYwMjgzMzY5._V1_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/BuscateVidaTemp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "El gran héroe americano (1981)",
+					"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1981/3/w1280/kv4EC7CwNKvUeC9JXLCVDffxub4.jpg",
+					"info": "Durante un viaje por el desierto, el profesor Ralph Hinkley recibe de parte de unos extraterrestres que aterrizan con su nave un traje que le confiere superpoderes: volar, ver a través de las paredes o ser inmune a las balas. Pero este traje sólo funciona con él y no lo sabe usar, ya que perdió el manual de instrucciones.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711Uq7hqQ4L._SY445_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/El%20gran%20h%C3%A9roe%20americano%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdLlZXWnUa8XRXFaSQIYA1oKlk8WScb7chiz2m9SscbDu1_iR4XpWXajKF3eTlSSbh2g&usqp=CAU",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/El%20gran%20h%C3%A9roe%20americano%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://detodoexpres.com/12577-home_default/el-gran-heroe-americano---temporada-3-the-greatest-american-hero.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/El%20gran%20h%C3%A9roe%20americano%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "El halcón callejero (1985)",
+					"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1985/1/w1280/olhjVolMqwrfFbvCNHZ1ysoNa2z.jpg",
+					"info": "La serie narraba la vida de un ex-oficial de policía motorizado que es reclutado por un organismo secreto del Gobierno de los Estados Unidos con el fin de desarrollar un arma de última generación creada para combatir el crimen: una motocicleta denominada con el código secreto de Street Hawk.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/El%20halc%C3%B3n%20callejero.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Enano rojo (1988)",
+					"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1988/2/w1280/dAaVWMhCCrSuimSETs9Z5ZTZQ3v.jpg",
+					"info": "Una fuga radioactiva acaba con la tripulación de la nave Enano Rojo. 3 millones de años después, David Lister despierta de su hibernación. Sus únicos compañeros son Gato, un ser que evolucionó a partir de una gata preñada y Arnold Rimmer, el holograma de un viejo amigo, que era oficial de los oficiales de la antigua tripulación. Así, Lister, el último ser humano vivo, viaja por el espacio en su nave guiada por Holly, el ordenador de a bordo.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://images.justwatch.com/poster/249540513/s332/temporada-1",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enano%20Rojo%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://images.justwatch.com/poster/249535559/s332/temporada-2",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enano%20Rojo%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Enredo (1977)",
+					"image": "https://m.media-amazon.com/images/I/71BHO5In-SL._AC_UF1000,1000_QL80_.jpg",
+					"info": "Comedia con tintes surrealistas en la que algunos de los protagonistas interpretan a mayordomos sarcásticos, a un héroe de guerra que añora los años 40 y al segundo ex marido de Mary, que aún cree que puede ser invisible tras haber sido abducido por los extraterrestres.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://m.media-amazon.com/images/I/713b6zM9JYL._AC_UF1000,1000_QL80_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enredo%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://image.tmdb.org/t/p/original/f9xru95YikYL0RiL8LDDEMaFTg3.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enredo%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://m.media-amazon.com/images/I/51Q75TEN7YL._AC_UF1000,1000_QL80_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enredo%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 4",
+							"image": "https://m.media-amazon.com/images/I/518Ikpca8TL._AC_UF1000,1000_QL80_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Enredo%20Temp4.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Los Jackson: un sueño americano (1992)",
+					"image": "https://static.tvtropes.org/pmwiki/pub/images/jacksonsamericandream2.jpeg",
+					"info": "Los Jackson son una familia de clase trabajadora en Gary, Indiana. Pero cuando el padre descubre el talento musical de sus cinco hijos varones, decide formar una banda con ellos, ganando concursos de talentos juveniles e iniciando una meteórica carrera hacia el éxito y la popularidad.",
+					"online": "true",
+					"stations": [{
+
+							"name": "Parte 1",
+							"image": "https://i.ytimg.com/vi/f5vRQbP8XYo/sddefault.jpg",
+							"url": "https://ok.ru/video/1352243546628",
+							"isHost": "true"
+						},
+						{
+							"name": "Parte 2",
+							"image": "https://i.ytimg.com/vi/fDutdgfsI1w/hqdefault.jpg",
+							"url": "https://ok.ru/video/1352243481092",
+							"isHost": "true"
+						}
+					]
+				},
+				{
+					"name": "Starman (1986)",
+					"image": "https://m.media-amazon.com/images/I/51H0TIHJvsL._SL1000_.jpg",
+					"info": "El extraterrestre de la película vuelve a la Tierra catorce años después. Nuevamente en el planeta, se encarna en Paul Forrester un fotógrafo recién fallecido en un accidente de helicóptero, para buscar al hijo fruto de su relación con Jenny Hayden. Tras encontrarlo también se convierte en el blanco de un investigador federal de vida extraterrestre que sigue sus pasos. Juntos, padre e hijo, vivirán diferentes aventuras mientras buscan a quien fuera su amor y madre respectivamente.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Starman.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "V: Invasión Extraterrestre (1983)",
+					"image": "https://image.tmdb.org/t/p/original/hfrP5aNjqmntZ5MOLgcuUVCqVTo.jpg",
+					"info": "Unos extraterrestres procedentes de un planeta de la estrella Sirio llegan a la Tierra con una actitud pacífica con la intención de que los terrícolas les ayuden en la obtención de minerales y productos químicos que necesitan. Al mismo tiempo, ellos les aportarán su tecnología avanzada.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e8a7ae13a85f4692eaee2052b2b7c25177844d9eee2c97e79a68d0b9da8273cc._RI_V_TTW_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/V%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://www.lavanguardia.com/peliculas-series/images/serie/backdrop/1984/5/w1280/2bJNHv1wLwB28jgpxFyuKEZlOOd.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/V%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b9a703ffd66343f18e0ef4e27b2dfc915cae2277632c4717a681607fa45feabf._UY500_UX667_RI_V_TTW_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/V%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Verano azul (1981)",
+					"image": "https://pics.filmaffinity.com/verano_azul-963417368-mmed.jpg",
+					"info": "Julia, una joven pintora viuda y solitaria, llega a Nerja en busca de tranquilidad. Allí conoce a un grupo de chicos que pasan sus vacaciones de verano. Después conocen a Pancho, un chico del pueblo repartidor en la tienda de sus tíos. Por último conocen a un viejo marino retirado llamado Chanquete.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Verano%20azul.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}
+			]
+		},
+
+		{
+			"name": "DORAMAS",
+			"image": "https://data.whicdn.com/images/315745835/original.gif",
+			"info": "Doramas asiáticos",
+			"groups": [{
+					"name": "1 litro de lágrimas (2005)",
+					"image": "https://3.bp.blogspot.com/-6jsw4piUXBU/WAMNYAt9xTI/AAAAAAAADuc/d6ZorlpeJKY-wlXTaAjA4ytIb7fcnmd9QCLcB/s1600/1ritto01.jpg",
+					"info": "Narra la historia de Aya Kitou, una chica que a los 15 años de edad desarrolla una rara enfermedad llamada degeneración espinocerebelosa, la cual daña el cerebelo del paciente afectando el movimiento motor, los reflejos, la percepción de distancia entre un objeto y otro, la coordinación, etc.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Unlitro.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Densha otoko (2005)",
+					"image": "https://idata.over-blog.com/3/41/69/84/dramas/Densha.jpg",
+					"info": "La historia sigue a un otaku llamado Tsuyoshi Yamada que salva a una hermosa chica del acoso de un borracho en el metro de Tokyo. Tras el incidente, ella le pide su dirección para mandarle un regalo de agradecimiento.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Densha.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Full House (2004)",
+					"image": "https://artworks.thetvdb.com/banners/series/84928/posters/5f377eaef39ac.jpg",
+					"info": "Han Ji Eun es una guionista aspirante que vive en una casa llamada Full House que fue construida por su difunto padre. Pero sus amigos la engañan haciéndole creer que ha ganado unas vacaciones gratis y luego venden su casa mientras ella no está.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Fullhouse.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}
+			]
+		},
+		{
+			"name": "ACTUALES (Desde 2010)",
+			"image": "https://2.bp.blogspot.com/-8HEvr_mY2hE/WCtz3LBkcrI/AAAAAAAANQk/-1BcFrL0eXkghtGiL21pGBH2VbQ-difnACLcB/s1600/Gif%2BSeries%2BTV%2BSpoiler%2BAlert.gif",
+			"info": "Series actuales (desde el año 2010)",
+			"groups": [
+
+				{
+					"name": "Alice in Borderland (2020)",
+					"image": "https://pics.filmaffinity.com/Alice_in_Borderland_Serie_de_TV-771299293-large.jpg",
+					"info": "Arisu, un joven apático, desempleado y obsesionado con los videojuegos, se encuentra de repente en una versión extraña y vacía de Tokio en la que él y sus amigos deben competir en juegos peligrosos para sobrevivir. En este extraño mundo, Arisu conoce a Usagi, una joven que navega sola por los juegos. Juntos, se propusieron desentrañar un misterio tras otro mientras arriesgan sus vidas y se enfrentan a lo que significa vivir.",
+					"import": "true",
+					"groups": [
+
+						{
+							"name": "Temporada 1",
+							"image": "https://pics.filmaffinity.com/Alice_in_Borderland_Serie_de_TV-851311635-large.jpg",
+							"stations": [{
+								"name": "1x01",
+								"image": "https://m.media-amazon.com/images/M/MV5BMTI5NGFjY2YtODBhYS00MDAzLWFlNjUtNTg3NTc2ODE5ZDAyXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_.jpg",
+								"url": "https://gamovideo.net/m33bjvo7t8tb",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "1x02",
+								"image": "https://m.media-amazon.com/images/M/MV5BMjljODRmN2YtYmQ1Zi00OTE4LWFkYWEtOTc0ODY4MzgzNzRiXkEyXkFqcGdeQXVyODczNDI0MTE@._V1_FMjpg_UX1000_.jpg",
+								"url": "https://gamovideo.net/8vhse0rdkaqc",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "1x03",
+								"image": "https://m.media-amazon.com/images/M/MV5BMDg5ZGI3Y2YtYzNmZi00MjI4LThhMmQtNTMyYjhhZWQ2NWQ4XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_.jpg",
+								"url": "https://gamovideo.net/adpkpfuy9qqe",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "1x04",
+								"image": "https://m.media-amazon.com/images/M/MV5BZGI2OTkxMGMtNGVlNS00NzFmLTg3ODgtYmNiOTAzNWQyNGViXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_.jpg",
+								"url": "https://gamovideo.net/etc8pp0wl34n",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "1x05",
+								"image": "https://m.media-amazon.com/images/M/MV5BZTAzZDE3ZjQtMjkzNC00NjNhLThhZjctZmQyMjk0N2U2NWYwXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_.jpg",
+								"url": "https://upstream.to/wp19q3kv6l9g",
+								"isHost": "true"
+							}, {
+								"name": "1x06",
+								"image": "https://1.bp.blogspot.com/-l8kELLbsnfo/X-QOd3aDaDI/AAAAAAABRgk/jTHBdKTsDEg69DO3BlSXrFlvO3sHlta8QCLcBGAsYHQ/s1200/01%2B-%2BAlice%2Bin%2BBorderland%2B1x06.jpg",
+								"url": "https://upstream.to/cyzkf9hwy4hg",
+								"isHost": "true"
+							}, {
+								"name": "1x07",
+								"image": "https://pictures.betaseries.com/banners/series/376472/episodes/5fd24a74ecdb5.jpg",
+								"url": "https://upstream.to/epdhui6et54p",
+								"isHost": "true"
+							}, {
+								"name": "1x08",
+								"image": "https://m.media-amazon.com/images/M/MV5BN2MyOTVhOWMtMjU5Mi00N2JkLWIwNWEtMDYyZWRkNGYyMGVhXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_.jpg",
+								"url": "https://upstream.to/podi1zbpa2q8",
+								"isHost": "true"
+							}]
+						},
+
+
+						{
+							"name": "Temporada 2",
+							"image": "https://pics.filmaffinity.com/Alice_in_Borderland_2_Serie_de_TV-135188541-large.jpg",
+							"stations": [{
+								"name": "2x01",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW4Dychu9-1YiAK31f0D8KZyXg6u_hnRJaAEa7s1R26XdlAoAtVF3oIFKF27ynC03_PP208qMpYrZss5nANTaeBn2JiDW0bHujG4t5fQR21f4nrDUttzrb1K3WiZpO6DeIOPKe4_TtVQG6llNwBk5WXn6Yeruy7j1xnFJCaUBEK5YjqcXeu_4bBzZJ/s1920/01%20-%20Alice%20in%20Borderland%202x01.png",
+								"url": "https://gamovideo.net/cx7nwtn0ekdt",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "2x02",
+								"image": "https://www.thechillviews.com/wp-content/uploads/2022/12/alice-in-borderland-s2-e2-king-of-clubs.png",
+								"url": "https://upstream.to/u2njefeorsf5",
+								"isHost": "true"
+							}, {
+								"name": "2x03",
+								"image": "https://i0.wp.com/fugitives.com/wp-content/uploads/2022/12/Alice-In-Borderland-Season-2-Episode-3-Recap-Ending-2022-Thriller-Series.jpg",
+								"url": "https://upstream.to/8totpbebpam8",
+								"isHost": "true"
+							}, {
+								"name": "2x04",
+								"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiik7g990KYWkRCgEYpEtm2Syy65-JkP74lGXHUs5znpKGsV-UY9-V8syDpCwVuSi5RwkQrRCGYhq8gLO3lpoJlVMblGSR1RIepuoz17tukNdZSUKs6sBjNQj3PHO9LxqY7YsVeaP8e8VADPFJFo_-dp5VRe-1pv-ykOYum5S0R5b_kJG8EZ4Zs5mMg/s1920/00%20-%20Alice%20in%20Borderland%202x04.png",
+								"url": "https://upstream.to/a9ozhwbd7ziw",
+								"isHost": "true"
+							}, {
+								"name": "2x05",
+								"image": "https://pictures.betaseries.com/banners/v4/episode/9476216/screencap/63a42fe8d2d74.jpg",
+								"url": "https://upstream.to/jjuqd5uyg8z4",
+								"isHost": "true"
+							}, {
+								"name": "2x06",
+								"image": "https://s2.dmcdn.net/v/UWY2l1ZhP6Km1ZH3c/x720",
+								"url": "https://gamovideo.net/23exfgu6xvno",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "2x07",
+								"image": "https://www.thechillviews.com/wp-content/uploads/2022/12/alice-in-borderland-s2-e7-strategize.png",
+								"url": "https://gamovideo.net/xv1ljmx8zm4y",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}, {
+								"name": "2x08",
+								"image": "https://www.thechillviews.com/wp-content/uploads/2022/12/alice-in-borderland-s2-e8-arisu-mira-continue-game.png",
+								"url": "https://gamovideo.net/i9tg7l1taxv1",
+								"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+								"isHost": "true"
+							}]
+						}
+					]
+				},
+				{
+					"name": "Black monday (2019)",
+					"image": "https://cdn-fastly.parrotanalytics.com/images/poster-hyphen/62e3dd51-604e-4a4d-a054-740cfd73290a.jpg",
+					"info": "Estamos en 1987 y el sistema financiero más poderoso del mundo está en problemas. Personajes como Maurice Monroe, Blair Pfaff y Dawn Darcy desafiarán hasta las leyes no escritas de la Bolsa.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://m.media-amazon.com/images/I/71XDArrZgXL._AC_UF1000,1000_QL80_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Blackmonday%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://static.wikia.nocookie.net/blackmonday/images/b/b1/Black_Monday_season_2_poster.jpg/revision/latest?cb=20200314013125",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Blackmonday%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://es.web.img3.acsta.net/pictures/21/05/21/09/37/4976799.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Blackmonday%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "Chernobyl (2019)",
+					"image": "https://pics.filmaffinity.com/Chernobyl_Miniserie_de_TV-183665235-large.jpg",
+					"info": "La historia del accidente nuclear de 1986, una de las peores catástrofes de la historia provocadas por el hombre, y de los valientes hombres y mujeres que se sacrificaron para salvar a Europa de un desastre inimaginable, mientras luchaban contra la cultura de la desinformación.",
+					"groups": [{
+
+						"name": "Temporada 1",
+						"image": "https://pics.filmaffinity.com/Chernobyl_Miniserie_de_TV-561675317-large.jpg",
+						"stations": [{
+
+								"name": "01 - 1:23:45",
+								"image": "https://pictures.betaseries.com/banners/episodes/20460/6183c528f0011d83bb75a7845f2bd586.jpg",
+								"url": "https://upstream.to/kbwg51guxxm5",
+								"isHost": "true"
+							},
+							{
+								"name": "02 - Por favor, mantengan la calma",
+								"image": "https://finde.latercera.com/wp-content/uploads/2019/05/CHERNOBYL-HBO-02-700x450.jpg",
+								"url": "https://upstream.to/zzydeadp5yg1",
+								"isHost": "true"
+							},
+							{
+								"name": "03 - Abierto de par en par. Oh tierra",
+								"image": "https://finde.latercera.com/wp-content/uploads/2019/05/Chernobyl-episodio-3-hbo-2.jpg",
+								"url": "https://upstream.to/yc7437884iy7",
+								"isHost": "true"
+							},
+							{
+								"name": "04 - La felicidad de toda la humanidad",
+								"image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/06/07152721/Chernobyl-43.jpg",
+								"url": "https://upstream.to/n186z74f7ku5",
+								"isHost": "true"
+							},
+							{
+								"name": "05 - Memoria eterna",
+								"image": "https://peru21.pe/resizer/qzRs2T92Z4F7JZkN_PakcrrNgCM=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OPMV5I5STJGKLG64EQGDDOY4GA.jpg",
+								"url": "https://upstream.to/vs233ow7jvmh",
+								"isHost": "true"
+							}
+						]
+					}]
+				},
+				{
+					"name": "Grease: Rise of the Pink Ladies (2023)",
+					"image": "https://images.justwatch.com/poster/304422667/s718/grease-rise-of-the-pink-ladies.%7Bformat%7D",
+					"info": "En 1954, cuatro chicas marginadas se unen y desafían la moral social en el instituto Rydell decididas a divertirse a su manera en una nueva era de coches rápidos, pelo engominado y rock and roll. Precuela de Grease",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Grease%20RotPL.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "La Unidad (2020)",
+					"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/04/cartel-unidad-1919543.jpg",
+					"info": "Durante una operación rutinaria, la policía española detiene al terrorista más buscado del mundo. Esto pone a España en el punto de mira del terrorismo yihadista. La Unidad, especializada en prevenir y desactivar ataques, tendrá que trabajar contrarreloj para evitar un atentado.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://static.abc.es/media/temporadas/000/012/574/la-unidad-1.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/La%20unidad%20Temp1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://es.web.img3.acsta.net/pictures/22/02/24/14/22/5913027.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/La%20unidad%20Temp2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://es.web.img2.acsta.net/pictures/22/02/24/14/26/2103183.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/La%20unidad%20Temp3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "One Piece (2023)",
+					"image": "https://static.wikia.nocookie.net/doblaje/images/8/8c/One_Piece_%28L-A%29.png/revision/latest?cb=20230617233617&path-prefix=es",
+					"info": "Monkey D. Luffy es un joven al que desde pequeño le fascinan las historias de piratas, en especial Shanks, 'El Pelirrojo'. Es por ello que un día decide emprender un viaje cargado de aventuras que va desde su hogar en el East Blue con el objetivo de encontrar el legendario tesoro, el One Piece.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/One%20Piece%20Action.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Real Madrid: Hasta el final (2023)",
+					"image": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/3/w1280/AvDRq2Onkol0mlPS2A9DSiJa4ax.jpg",
+					"info": "Serie documental que narra cómo vivieron los jugadores y equipo técnico del icónico club de fútbol español la consecución de éxitos durante la temporada 2021-2022.",
+					"import": "true",
+					"stations": [{
+							"name": "01 - La reconstrucción",
+							"image": "https://image.tmdb.org/t/p/w185/1navsBUhNrBs6R4RyKsemTI6P9J.jpg",
+							"url": "https://gamovideo.net/qdiih2278pm4",
+							"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+							"isHost": "true"
+						},
+						{
+							"name": "02 - La remontada",
+							"image": "https://image.tmdb.org/t/p/w185/7dPLLF4eQvuyOGs5Kh7uFBP5Rhd.jpg",
+							"url": "https://gamovideo.net/gydely3pajzh",
+							"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+							"isHost": "true"
+						},
+						{
+							"name": "03 - Hasta el final",
+							"image": "https://image.tmdb.org/t/p/w185/4PNpYABEJfBBDyVDUPg0ODXSyCG.jpg",
+							"url": "https://gamovideo.net/n7w8p4em522n",
+							"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+							"isHost": "true"
+						}
+					]
+				},
+				{
+					"name": "Supergarcía (2023)",
+					"image": "https://www.movistarplus.es/recorte/n/caratula4/F4093669",
+					"info": "Una historia de poder, de deporte, de política, de radio y de vida que se narra en tres episodios. Desde el 23-F hasta la Vuelta Ciclista España, desde el nacimiento de la radio nocturna hasta la lucha entre emisoras y grupos de comunicación. Contada en primera persona por su protagonista y, por supuesto, por las personas que le rodearon, le conocieron, le admiraron… o le odiaron.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Supergarcia.m3u",
+					"import": "true"
+				}
+			]
+		}
+	]
+}
