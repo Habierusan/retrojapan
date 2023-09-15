@@ -3690,6 +3690,11 @@
 			"info": "Películas de estreno. ¡¡NECESARIO ACESTREAM!!",
 			"stations": [{
 
+				"name": "Barbie (2023)",
+				"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
+				"url": "acestream://43c33dee411faf6293a892cd88945820007ec082",
+				"isHost": "true"
+			}, {
 				"name": "Bohemian Rhapsody (2018)",
 				"image": "https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg",
 				"url": "acestream://b01da9f33621f52b9d6e7da4a99039085ba4e10f/",
