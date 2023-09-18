@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 16/09/23)",
+	"author": "Javito (actualizada 18/09/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -39,6 +39,11 @@
 				"name": "Bird Box Barcelona (2023)",
 				"image": "https://hips.hearstapps.com/hmg-prod/images/es-es-bbb-main-vertical-27x40-both-pre-1-649c41a9754fc.jpg",
 				"url": "https://upstream.to/fs2paiw856nz",
+				"isHost": "true"
+			}, {
+				"name": "Blue Beetle (2023)",
+				"image": "https://pics.filmaffinity.com/Blue_Beetle-374893789-large.jpg",
+				"url": "https://upstream.to/05zvdsayvy9v",
 				"isHost": "true"
 			}, {
 				"name": "Como Dios manda (2023)",
