@@ -40,13 +40,13 @@ acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png",Movistar Liga de Campeones 2 [720]
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png",M. Liga de Campeones 3 [1080]
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png",M. Liga de Campeones 3 [720]
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png",M. Liga de Campeones 3 [720]
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77D8_40A_1_C00000_0_0_0.png",M. Liga de Campeones 4 [SD]
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C4_40A_1_C00000_0_0_0.png",M. Liga de Campeones 5 [SD]
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1, tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png",M. Liga de Campeones 5 [SD]
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Movistar_Liga_de_Campeones_6.png",M. Liga de Campeones 6 [SD]
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png",M. Liga de Campeones 7 [SD]
