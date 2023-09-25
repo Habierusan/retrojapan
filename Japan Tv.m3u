@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/512px-NHK_logo.svg.png",NHK
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TBS_TV_6_%282003%29.svg/revision/latest/scale-to-width-down/200?cb=20210222192520",TBS
+https://tbs3.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1617810074076086273/br4gCkTU_400x400.jpg",WBS
+https://ok.ru/video/6895086476916
+
