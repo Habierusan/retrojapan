@@ -658,6 +658,14 @@
 					"import": "true"
 				},
 				{
+					"name": "Campeones: Oliver y Benji - OVAS Europa (1989)",
+					"image": "https://www.themoviedb.org/t/p/original/blqvy7q0k2iyXM7QTtFLNWunZD9.jpg",
+					"info": "La trama narra la historia desde los preparativos para el Campeonato mundial juvenil en Francia hasta la final de Japón contra Alemania. En la misma, la selección juvenil de Japón se reencuentra con Benji en Alemania y luego con Tom en Francia y junto con la incorporación al equipo de Julian Ross lucharán por alzarse con el mayor título de selecciones para Japón.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Shin%20Tsubasa.m3u",
+					"import": "true"
+				},
+				{
 					"name": "Chobits (2002)",
 					"image": "https://1.bp.blogspot.com/-TCSfCA_VpII/V5U-iz8aH0I/AAAAAAAAgIE/EDXbgxAhxbEmyinZxIoNvrXjzWRSnQLIgCLcB/s1600/chobits.jpg",
 					"info": "Hideki Motosuwa es un chico de 18 años que decide ir a estudiar a Tokio, lugar en el que es muy común tener uno de los nuevos ordenadores personales, conocidos como Persocons. Estos son capaces de desarrollar funciones como las de un humano normal.",
