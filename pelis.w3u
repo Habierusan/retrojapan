@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 18/09/23)",
+	"author": "Javito (actualizada 25/09/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -94,6 +94,11 @@
 				"name": "El gato con botas: El último deseo (2022)",
 				"image": "https://pics.filmaffinity.com/El_gato_con_botas_El_ltimo_deseo-528008999-large.jpg",
 				"url": "https://upstream.to/uc85nfoiixbg",
+				"isHost": "true"
+			}, {
+				"name": "El hombre del saco (2023)",
+				"image": "https://pics.filmaffinity.com/El_hombre_del_saco-848302846-large.jpg",
+				"url": "https://upstream.to/m28d92plsqtr",
 				"isHost": "true"
 			}, {
 				"name": "El peor vecino del mundo (2022)",
