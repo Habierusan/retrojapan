@@ -3775,6 +3775,11 @@
 				"image": "https://static.wikia.nocookie.net/doblaje/images/b/b6/Indiana_Jones_y_el_dial_del_destino_-_P%C3%B3ster_final.jpeg/revision/latest?cb=20230602201511&path-prefix=es",
 				"url": "acestream://122b388e0aee9d0200c31dffaddff93186f2fa22/",
 				"isHost": "true"
+           		}, { 
+               			"name": "La monja II (2023)",
+              			"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/08/monja-ii-3116952.jpg?tf=3840x",
+                		"url": "acestream://3c7bc52d33ceeb68854de46701b852388b901a6b",
+                		"isHost":"true"  
 			}, {
 				"name": "Los tres mosqueteros: D'Artagnan (2023)",
 				"image": "https://pics.filmaffinity.com/Los_tres_mosqueteros_D_Artagnan-865440685-large.jpg",
