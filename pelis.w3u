@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 05/10/23)",
+	"author": "Javito (actualizada 09/10/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -2936,6 +2936,11 @@
 				"name": "En busca de la felicidad (2006)",
 				"image": "https://pics.filmaffinity.com/En_busca_de_la_felicidad-784018303-large.jpg",
 				"url": "https://upstream.to/m2c4rr725e6f",
+				"isHost": "true"
+			}, {
+				"name": "En el nombre del padre (1993)",
+				"image": "https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F002%2F934%2Fen-el-nombre-del-padre-1.jpg&nuevoancho=683&medio=abc",
+				"url": "https://upstream.to/q3izabdfpg2b",
 				"isHost": "true"
 			}, {
 				"name": "Encuentros en la tercera fase (1977)",
