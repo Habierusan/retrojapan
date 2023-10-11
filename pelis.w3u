@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 09/10/23)",
+	"author": "Javito (actualizada 11/10/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -59,6 +59,11 @@
 				"name": "Criminales a la vista (2023)",
 				"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2023/03/poster-criminales-vista-2977574.jpg?itok=URewSDLB",
 				"url": "https://upstream.to/yvei43xm4udq",
+				"isHost": "true"
+			}, {
+				"name": "Desmadre incluido (2023)",
+				"image": "https://pics.filmaffinity.com/Desmadre_incluido-417627596-large.jpg",
+				"url": "https://vidmoly.to/4q9g8zlmokg2",
 				"isHost": "true"
 			}, {
 				"name": "Dragon Ball Super: Super Hero (2022)",
