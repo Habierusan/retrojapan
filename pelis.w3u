@@ -310,6 +310,34 @@
 		},
 
 		{
+ 
+			"name": "FILMOGRAFIAS",
+			"image": "https://i.gifer.com/YUM3.gif",
+			"info": "Ciclos y filmografías de históricos del cine",
+			"groups": [{
+ 
+ 
+					"name": "Alfred Hitchcock",
+					"image": "https://images.mubicdn.net/images/cast_member/1163/cache-3-1337541407/image-w856.jpg",
+					"info": "Todas las películas de Alfred Hitchcock",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Hitchcock.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
+					"name": "Los Hermanos Marx",
+					"image": "https://magazineactivo.files.wordpress.com/2013/12/annex-marx-brothers-a-day-at-the-races_nrfpt_01.jpg",
+					"info": "Películas de los Hermanos Marx",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Marx.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}
+			]
+		},
+ 
+		{
 			"name": "STUDIO GHIBLI",
 			"image": "https://i.gifer.com/g4.gif",
 			"info": "Peliculas del Studio Ghibli",
