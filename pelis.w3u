@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 30/10/23)",
+	"author": "Javito (actualizada 03/11/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -224,6 +224,11 @@
 				"name": "Misión: Imposible - Sentencia mortal (Parte I) (2023)",
 				"image": "https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-902615661-large.jpg",
 				"url": "https://upstream.to/jejgtdaqxw3b",
+				"isHost": "true"
+			}, {
+				"name": "Misterio en Venecia (2023)",
+				"image": "https://www.cineycine.com/archivos/2023/09/misterio-en-venecia-poster.jpg",
+				"url": "https://upstream.to/3sjcxiv8gasc",
 				"isHost": "true"
 			}, {
 				"name": "Moonfall (2022)",
