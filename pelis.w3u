@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 14/11/23)",
+	"author": "Javito (actualizada 18/11/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -614,6 +614,11 @@
 				"name": "Steamboy (2004)",
 				"image": "https://pics.filmaffinity.com/Steamboy-724463064-large.jpg",
 				"url": "https://upstream.to/f3jeqp9ymzs9",
+				"isHost": "true"
+			}, {
+				"name": "Suzume (2022)",
+				"image": "https://pics.filmaffinity.com/Suzume-732133086-large.jpg",
+				"url": "https://vidmoly.to/rvqhcte1a1w4",
 				"isHost": "true"
 			}, {
 				"name": "Wolf Children (Los niños lobo) (2012)",
