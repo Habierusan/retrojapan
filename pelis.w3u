@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 18/11/23)",
+	"author": "Javito (actualizada 22/11/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -456,7 +456,13 @@
 			}, {
 				"name": "Blue Thermal (2022)",
 				"image": "https://www.selecta-vision.com/wp-content/uploads/poster-blue-thermal-1-1434x2048.jpg",
-				"url": "https://upstream.to/gwu2f9b2l42m",
+				"url": "https://gamovideo.net/hcf7fgtwsk45",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
+				"name": "Buda: El gran viaje (2011)",
+				"image": "https://pics.filmaffinity.com/Buda_El_gran_viaje-248815665-large.jpg",
+				"url": "https://upstream.to/rtjahcfmpanz",
 				"isHost": "true"
 			}, {
 				"name": "Campeones - Desafío europeo (1985)",
