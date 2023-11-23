@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 22/11/23)",
+	"author": "Javito (actualizada 23/11/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -219,6 +219,11 @@
 				"name": "Megalodón 2: La fosa (2023)",
 				"image": "https://www.lahiguera.net/cinemania/pelicula/10782/megalodon_2_la_fosa-cartel-11188.jpg",
 				"url": "https://upstream.to/i78ctti75os4",
+				"isHost": "true"
+			}, {
+				"name": "Mejor Navidad, ¡Imposible! (2023)",
+				"image": "https://static.wikia.nocookie.net/doblaje/images/e/ee/Mejor_Navidad%2C_%C2%A1imposible%21.png/revision/latest?cb=20231120005107&path-prefix=es",
+				"url": "https://vidmoly.to/mw6lcdy3g4ae",
 				"isHost": "true"
 			}, {
 				"name": "Misión: Imposible - Sentencia mortal (Parte I) (2023)",
