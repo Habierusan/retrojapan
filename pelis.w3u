@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 23/11/23)",
+	"author": "Javito (actualizada 06/12/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -194,6 +194,11 @@
 				"name": "Llaman a la puerta (2023)",
 				"image": "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/llaman-a-la-puerta-q1ktorov89xbk4s80mxd53pewfuekcp5qmu29w6ark.jpg",
 				"url": "https://upstream.to/r2481khxuibs",
+				"isHost": "true"
+			}, {
+				"name": "Los asesinos de la luna (2023)",
+				"image": "https://www.aceprensa.com/wp-content/uploads/2023/10/los-asesinos-de-la-luna-1.jpg",
+				"url": "https://upstream.to/wk4svmt2okri",
 				"isHost": "true"
 			}, {
 				"name": "Los Caballeros del Zodíaco (2023)",
