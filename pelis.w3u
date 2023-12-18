@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 10/12/23)",
+	"author": "Javito (actualizada 18/12/23)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -44,6 +44,11 @@
 				"name": "Blue Beetle (2023)",
 				"image": "https://pics.filmaffinity.com/Blue_Beetle-374893789-large.jpg",
 				"url": "https://upstream.to/05zvdsayvy9v",
+				"isHost": "true"
+			}, {
+				"name": "Campeonex (2023)",
+				"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
+				"url": "https://vidmoly.to/3xfn7kg1r3la",
 				"isHost": "true"
 			}, {
 				"name": "Como Dios manda (2023)",
