@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 18/12/23)",
+	"author": "Javito (actualizada 05/01/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -104,6 +104,11 @@
 				"name": "El exorcista del papa (2023)",
 				"image": "https://pics.filmaffinity.com/El_exorcista_del_papa-204349865-large.jpg",
 				"url": "https://upstream.to/88dc3fwpdhoc",
+				"isHost": "true"
+			}, {
+				"name": "El Exorcista: Creyente (2023)",
+				"image": "https://pics.filmaffinity.com/El_exorcista_Creyente-442048583-large.jpg",
+				"url": "https://vidmoly.to/ozo2i2k4k4gu",
 				"isHost": "true"
 			}, {
 				"name": "El gato con botas: El último deseo (2022)",
