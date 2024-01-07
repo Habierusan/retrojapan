@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 05/01/24)",
+	"author": "Javito (actualizada 07/01/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -199,6 +199,11 @@
 				"name": "La sirenita (2023)",
 				"image": "https://es.web.img2.acsta.net/c_310_420/pictures/23/03/14/15/12/2449709.jpg",
 				"url": "https://upstream.to/ec4zshzr8vy6",
+				"isHost": "true"
+			}, {
+				"name": "La sociedad de la nieve (2023)",
+				"image": "https://www.bizcochito.es/Films/Poster/tt16277242.webp",
+				"url": "https://vidmoly.to/0sg3aykuxvka",
 				"isHost": "true"
 			}, {
 				"name": "Llaman a la puerta (2023)",
