@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 07/01/24)",
+	"author": "Javito (actualizada 10/01/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -264,6 +264,11 @@
 				"name": "Moonfall (2022)",
 				"image": "https://pics.filmaffinity.com/Moonfall-603240014-large.jpg",
 				"url": "https://upstream.to/sw5xfhdyh5cl",
+				"isHost": "true"
+			}, {
+				"name": "Napoleón (2023)",
+				"image": "https://lh3.googleusercontent.com/proxy/bjD4MWe1nzxdhN37Z73tWoO9wWgiICe4XqO7wP2mQiEouFaQHDYBgOq2AdQqSLcjHsnOIpqcrW_SNjW5qYkzepvi6187bMA5U1Lf9kX9o-pYBPEYxh2v0vmVqUn7nQMMuzc",
+				"url": "https://upstream.to/qll5h3kbli0p",
 				"isHost": "true"
 			}, {
 				"name": "No mires a los ojos (2022)",
