@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 12/01/24)",
+	"author": "Javito (actualizada 20/01/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -226,6 +226,11 @@
 				"url": "https://upstream.to/wuitw9khi7nu",
 				"isHost": "true"
 			}, {
+				"name": "Los mercen4rios (2023)",
+				"image": "https://pics.filmaffinity.com/Los_mercen4rios-267923057-large.jpg",
+				"url": "https://upstream.to/4xg85rxgwb9p",
+				"isHost": "true"
+			}, {
 				"name": "Mari(dos) (2023)",
 				"image": "https://pics.filmaffinity.com/Mari_dos-119061049-large.jpg",
 				"url": "https://upstream.to/8vizgm7rkygy",
@@ -350,6 +355,11 @@
 				"name": "¡Vaya vacaciones! (2023)",
 				"image": "https://pics.filmaffinity.com/aVaya_vacaciones-957309987-large.jpg",
 				"url": "https://upstream.to/cacd5uueu31q",
+				"isHost": "true"
+			}, {
+				"name": "Wonka (2023)",
+				"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/11/wonka-3233758.jpg?tf=1200x",
+				"url": "https://vidmoly.to/cdj2ync0dsu5",
 				"isHost": "true"
 			}, {
 				"name": "Yuku y la flor del Himalaya (2022)",
