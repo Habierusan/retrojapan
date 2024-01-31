@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 20/01/24)",
+	"author": "Javito (actualizada 31/01/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -204,6 +204,11 @@
 				"name": "La sociedad de la nieve (2023)",
 				"image": "https://www.bizcochito.es/Films/Poster/tt16277242.webp",
 				"url": "https://vidmoly.to/0sg3aykuxvka",
+				"isHost": "true"
+			}, {
+				"name": "La ternura (2023)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMGNmZTE3ZDEtMWQxYi00YWMxLWIwMzUtZWIwNjcwOGY0NWRlXkEyXkFqcGdeQXVyMTYzMDUzNjEw._V1_.jpg",
+				"url": "https://vidmoly.to/lmgpmfiafcam",
 				"isHost": "true"
 			}, {
 				"name": "Llaman a la puerta (2023)",
@@ -1385,6 +1390,11 @@
 				"name": "Tesis (1996)",
 				"image": "https://pics.filmaffinity.com/Tesis-722806709-large.jpg",
 				"url": "https://upstream.to/jlfidorpe963",
+				"isHost": "true"
+			}, {
+				"name": "Todo sobre mi madre (1999)",
+				"image": "https://images.justwatch.com/poster/243462009/s718/all-about-my-mother.jpg",
+				"url": "https://vidmoly.to/4dbi56oxzbk3",
 				"isHost": "true"
 			}]
 		},
