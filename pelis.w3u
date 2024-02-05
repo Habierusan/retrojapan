@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 31/01/24)",
+	"author": "Javito (actualizada 05/02/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -1608,6 +1608,21 @@
 				"name": "Inferno (2016)",
 				"image": "https://pics.filmaffinity.com/Inferno-993771440-large.jpg",
 				"url": "https://upstream.to/llq9zi046s61",
+				"isHost": "true"
+			}, {
+				"name": "El crack (1981)",
+				"image": "https://static.filmin.es/images/media/32223/3/poster_0_3.webp",
+				"url": "https://ok.ru/video/7137841318638",
+				"isHost": "true"
+			}, {
+				"name": "El crack dos (1983)",
+				"image": "https://pics.filmaffinity.com/El_crack_Dos-980267785-large.jpg",
+				"url": "https://ok.ru/video/969241201156",
+				"isHost": "true"
+			}, {
+				"name": "El crack cero (2019)",
+				"image": "https://www.posterscine.com/media/catalog/product/cache/1c91d037a1f0ef180108abb0973795cc/p/_/p_ster_el_crack_cero.png",
+				"url": "https://ok.ru/video/4564177324702",
 				"isHost": "true"
 			}, {
 				"name": "El Hobbit: Un viaje inesperado (2012)",
