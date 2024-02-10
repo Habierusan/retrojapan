@@ -1593,6 +1593,21 @@
 					]
 				},
 				{
+					"name": "Suits (La clave del éxito) (2011)",
+					"image": "https://es.web.img2.acsta.net/pictures/14/03/28/10/18/433386.jpg",
+					"info": "Mike Ross, un brillante estudiante de Derecho al que expulsan de la facultad antes de graduarse, llega por casualidad al bufete de Harvey Specter, uno de los mejores abogados de Nueva York. Juntos trabajan en los casos más difíciles, aunque para ganarlos a veces tengan que saltarse la legalidad.",
+					"online": "true",
+					"groups": [{
+ 
+							"name": "Temporada 1",
+							"image": "https://pics.filmaffinity.com/Suits_La_clave_del_aexito_Serie_de_TV-438571793-large.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Suits1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
 					"name": "Supergarcía (2023)",
 					"image": "https://www.movistarplus.es/recorte/n/caratula4/F4093669",
 					"info": "Una historia de poder, de deporte, de política, de radio y de vida que se narra en tres episodios. Desde el 23-F hasta la Vuelta Ciclista España, desde el nacimiento de la radio nocturna hasta la lucha entre emisoras y grupos de comunicación. Contada en primera persona por su protagonista y, por supuesto, por las personas que le rodearon, le conocieron, le admiraron… o le odiaron.",
