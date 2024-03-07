@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 10/02/24)",
+	"author": "Javito (actualizada 07/03/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -320,6 +320,11 @@
 				"name": "Peter Pan & Wendy (2023)",
 				"image": "https://pics.filmaffinity.com/Peter_Pan_Wendy-948058747-large.jpg",
 				"url": "https://upstream.to/9z9n4w8k6swi",
+				"isHost": "true"
+			}, {
+				"name": "Pobres criaturas (2023)",
+				"image": "https://pics.filmaffinity.com/Pobres_criaturas-281716722-large.jpg",
+				"url": "https://upstream.to/m5ptb49i53vt",
 				"isHost": "true"
 			}, {
 				"name": "Que nadie duerma (2023)",
