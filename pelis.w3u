@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 12/03/24)",
+	"author": "Javito (actualizada 14/03/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -330,6 +330,11 @@
 				"name": "Que nadie duerma (2023)",
 				"image": "https://pics.filmaffinity.com/Que_nadie_duerma-673612064-large.jpg",
 				"url": "https://vidmoly.me/cqbrvzqz7tm3",
+				"isHost": "true"
+			}, {
+				"name": "Robot Dreams (2023)",
+				"image": "https://pics.filmaffinity.com/Robot_Dreams-321433099-large.jpg",
+				"url": "https://upstream.to/1y8clu021074",
 				"isHost": "true"
 			}, {
 				"name": "Saben aquell (2023)",
@@ -3557,6 +3562,11 @@
 				"url": "https://upstream.to/c6prv51p5zin",
 				"isHost": "true"
 			}, {
+				"name": "Múltiple (2016)",
+				"image": "https://pics.filmaffinity.com/Maultiple-705500058-large.jpg",
+				"url": "https://upstream.to/cdvjdf421cgy",
+				"isHost": "true"
+			}, {
 				"name": "Náufrago (2000)",
 				"image": "https://es.web.img3.acsta.net/pictures/14/02/24/12/47/059672.jpg",
 				"url": "https://upstream.to/n5big3znslgu",
@@ -3615,6 +3625,11 @@
 				"name": "Peggy Sue se casó (1986)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/71/38/55/20531595.jpg",
 				"url": "https://upstream.to/hm6moyikbq4r",
+				"isHost": "true"
+			}, {
+				"name": "Pequeña Miss Sunshine (2006)",
+				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/89/72/42/20063948.jpg",
+				"url": "https://upstream.to/4qoaxkoly6x1",
 				"isHost": "true"
 			}, {
 				"name": "Pesadilla antes de navidad (1993)",
@@ -3903,6 +3918,11 @@
 				"image": "https://mr.comingsoon.it/imgdb/locandine/big/17489.jpg",
 				"url": "https://upstream.to/wpzpb3rq57os",
 				"isHost": "true"
+			}, {
+				"name": "Yesterday (2019)",
+				"image": "https://pics.filmaffinity.com/Yesterday-541518094-large.jpg",
+				"url": "https://gamovideo.net/tchls6xoee8z",
+                		"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
 			}, {
 				"name": "Yo, el halcón (1987)",
 				"image": "https://m.media-amazon.com/images/I/7199S6VUAeL._AC_UF1000,1000_QL80_.jpg",
