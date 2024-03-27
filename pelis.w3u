@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 14/03/24)",
+	"author": "Javito (actualizada 27/03/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -3348,6 +3348,11 @@
 				"name": "La gran apuesta (2015)",
 				"image": "https://pics.filmaffinity.com/La_gran_apuesta-904998845-large.jpg",
 				"url": "https://upstream.to/drjqdu5forof",
+				"isHost": "true"
+			}, {
+				"name": "La isla misteriosa (1961)",
+				"image": "https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F004%2F373%2Fla-isla-misteriosa-1.jpg&nuevoancho=690&medio=abc",
+				"url": "https://upstream.to/hesqwo96ykl5",
 				"isHost": "true"
 			}, {
 				"name": "La la land: La ciudad de las estrellas (2016)",
