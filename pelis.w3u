@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 05/04/24)",
+	"author": "Javito (actualizada 07/04/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -185,6 +185,11 @@
 				"image": "https://pics.filmaffinity.com/La_ballena_The_Whale-547391789-large.jpg",
 				"url": "https://upstream.to/rypbb9hfhmxe",
 				"isHost": "true"
+          		  }, { 
+             		        "name": "La ermita (2023)",
+               		        "image": "https://pics.filmaffinity.com/La_ermita-157907394-large.jpg",
+               		        "url": "https://upstream.to/95t1sye27vjt",
+                		"isHost":"true"   
 			}, {
 				"name": "La madre (2023)",
 				"image": "https://pics.filmaffinity.com/La_madre-219102487-large.jpg",
