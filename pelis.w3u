@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 07/04/24)",
+	"author": "Javito (actualizada 12/04/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -594,6 +594,11 @@
 				"name": "Dragon Ball: El camino hacia el más fuerte (1996)",
 				"image": "https://pics.filmaffinity.com/Dragon_Ball_El_camino_hacia_el_maas_fuerte-438707785-large.jpg",
 				"url": "https://upstream.to/dpy5f88bomo3",
+				"isHost": "true"
+			}, {
+				"name": "Dragon Ball Z: Guerreros de fuerza ilimitada (1992)",
+				"image": "https://dragonball.center/files/module_dbc/objetos/dqbm41142.jpg",
+				"url": "https://upstream.to/xel7ymjc5dmz",
 				"isHost": "true"
 			}, {
 				"name": "Dragon Ball Z: Guerreros de fuerza ilimitada (1992)",
