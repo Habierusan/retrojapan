@@ -1556,6 +1556,15 @@
 					]
 				},
 				{
+					"name": "El caso Asunta (2024)",
+					"image": "https://pics.filmaffinity.com/El_caso_Asunta_Miniserie_de_TV-555638165-large.jpg",
+					"info": "El 21 de septiembre de 2013 Rosario Porto y Alfonso Basterra denuncian la desaparición de su hija Asunta, cuyo cuerpo es encontrado horas después junto a una carretera a las afueras de Santiago de Compostela.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Asunta.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				},
+				{
 					"name": "One Piece (2023)",
 					"image": "https://static.wikia.nocookie.net/doblaje/images/8/8c/One_Piece_%28L-A%29.png/revision/latest?cb=20230617233617&path-prefix=es",
 					"info": "Monkey D. Luffy es un joven al que desde pequeño le fascinan las historias de piratas, en especial Shanks, 'El Pelirrojo'. Es por ello que un día decide emprender un viaje cargado de aventuras que va desde su hogar en el East Blue con el objetivo de encontrar el legendario tesoro, el One Piece.",
