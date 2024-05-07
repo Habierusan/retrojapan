@@ -741,9 +741,9 @@
 							"import": "true"
 						},
 						{
-							"name": "",
-							"image": "",
-							"url": "",
+							"name": "Temporada 4 - Arco de la Aldea de los Herreros",
+							"image": "https://a.storyblok.com/f/178900/640x905/b12725a12a/24fcf3594a5689e7818de1ab1af798091680275939_main.png",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KnY%20Temp4.m3u",
 							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
 							"import": "true"
 						},
