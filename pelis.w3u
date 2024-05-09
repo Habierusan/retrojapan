@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 08/05/24)",
+	"author": "Javito (actualizada 09/05/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -49,6 +49,11 @@
 				"name": "Campeonex (2023)",
 				"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
 				"url": "https://vidmoly.to/3xfn7kg1r3la",
+				"isHost": "true"
+			}, {
+				"name": "Cazafantasmas: Imperio helado (2024)",
+				"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/03/cazafantasmas-imperio-helado-3289837.jpg",
+				"url": "https://upstream.to/79pnp7btyy5l",
 				"isHost": "true"
 			}, {
 				"name": "Como Dios manda (2023)",
