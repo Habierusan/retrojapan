@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 09/05/24)",
+	"author": "Javito (actualizada 21/05/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -149,6 +149,11 @@
 				"name": "Flash (2023)",
 				"image": "https://pics.filmaffinity.com/Flash-197496892-large.jpg",
 				"url": "https://upstream.to/f36jaduulup7",
+				"isHost": "true"
+			}, {
+				"name": "Godzilla y Kong: El nuevo imperio (2024)",
+				"image": "https://pics.filmaffinity.com/Godzilla_y_Kong_El_nuevo_imperio-931181417-large.jpg",
+				"url": "https://upstream.to/5fue9mueskml",
 				"isHost": "true"
 			}, {
 				"name": "Gran Turismo (2023)",
