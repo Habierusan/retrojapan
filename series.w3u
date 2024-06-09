@@ -890,6 +890,15 @@
 					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Miyuki.m3u",
 					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
 					"import": "true"
+				},
+				{
+					"name": "Video Girl Ai (1992)",
+					"image": "https://image.tmdb.org/t/p/original/55kGXYm6oC2WULfhmipJvTAOqsx.jpg",
+					"info": "Cuando la chica que le gusta a Yohta, Moemi, le dice que a ella le gusta otro chico, Yohta alquila una cinta de una chica virtual de un extraño videoclub. Al reproducir la cinta en su casa, Ai, la chica virtual, sale de la pantalla para ayudarle a conseguir el amor de Moemi.",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Video%20Girl%20Ai.m3u",
+					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
 				}
 			]
 		},
