@@ -1258,6 +1258,49 @@
 					]
 				},
 				{
+					"name": "Luz de luna (1985)",
+					"image": "https://flxt.tmsimg.com/assets/p7893938_b_v9_aa.jpg",
+					"info": "La serie gira alrededor de los casos investigados por una agencia de detectives Luna Azul al frente de la cual están Maddie Hayes (Cybill Shepherd) y David Addison (Bruce Willis). La serie cuenta con una mezcla de misterio, diálogos agudos y una tensión sexual entre sus dos protagonistas.",
+					"online": "true",
+					"groups": [{
+
+							"name": "Temporada 1",
+							"image": "https://static.wikia.nocookie.net/doblaje/images/2/28/Luz_de_Luna.jpg/revision/latest?cb=20100406164411&path-prefix=es",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Luz%20de%20luna%20T1.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 2",
+							"image": "https://static.wikia.nocookie.net/doblaje/images/2/28/Luz_de_Luna.jpg/revision/latest?cb=20100406164411&path-prefix=es",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Luz%20de%20luna%20T2.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 3",
+							"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJuRCeqfjZ9vxUog1NEAld7Sc5rjMoH0eI5otxmifNA_kTzlj48VbTOmmGiPyFAM_6BGe48FDOuKtMD_phZ9kDzco8qGdiAsUOPvtTz6Le8r5-katUcVOFCRDpqVx-cqfUV5920cKQfV6/s1600/LUZ+DE+LUNA+T+3.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Luz%20de%20luna%20T3.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 4",
+							"image": "https://m.media-amazon.com/images/I/71w6jhy5ZFL._AC_UF894,1000_QL80_.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Luz%20de%20luna%20T4.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						},
+						{
+							"name": "Temporada 5",
+							"image": "https://i.ebayimg.com/images/g/LP8AAOSwFvBj5nuV/s-l1200.jpg",
+							"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/Luz%20de%20luna%20T5.m3u",
+							"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+							"import": "true"
+						}
+					]
+				},
+				{
 					"name": "Starman (1986)",
 					"image": "https://m.media-amazon.com/images/I/51H0TIHJvsL._SL1000_.jpg",
 					"info": "El extraterrestre de la película vuelve a la Tierra catorce años después. Nuevamente en el planeta, se encarna en Paul Forrester un fotógrafo recién fallecido en un accidente de helicóptero, para buscar al hijo fruto de su relación con Jenny Hayden. Tras encontrarlo también se convierte en el blanco de un investigador federal de vida extraterrestre que sigue sus pasos. Juntos, padre e hijo, vivirán diferentes aventuras mientras buscan a quien fuera su amor y madre respectivamente.",
