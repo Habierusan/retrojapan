@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 08/06/24)",
+	"author": "Javito (actualizada 12/07/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -683,9 +683,19 @@
 				"url": "https://upstream.to/y28pirxjrgvp",
 				"isHost": "true"
 			}, {
+				"name": "El chico y la garza (2023)",
+				"image": "https://image.tmdb.org/t/p/original/7Jn6vWNMlyuLdTaRspfSUd4NELk.jpg",
+				"url": "https://vidmoly.to/mm16pq8xlv7g",
+				"isHost": "true"
+			}, {
 				"name": "El tiempo contigo (2019)",
 				"image": "https://es.web.img2.acsta.net/r_1280_720/pictures/19/11/04/17/17/1390431.jpg",
 				"url": "https://upstream.to/mdqv4o5j1ix0",
+				"isHost": "true"
+			}, {
+				"name": "El último reino (1986)",
+				"image": "https://reasonstoanime.com/wp-content/uploads/2021/10/box.png",
+				"url": "https://ok.ru/video/3922573986306",
 				"isHost": "true"
 			}, {
 				"name": "En el bosque de la luz de las luciérnagas (2011)",
@@ -697,11 +707,6 @@
 				"image": "https://images.justwatch.com/poster/8852572/s592/en-este-rincon-del-mundo",
 				"url": "https://gamovideo.net/6jj4y6s848gd",
 				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
-			}, {
-				"name": "El último reino (1986)",
-				"image": "https://reasonstoanime.com/wp-content/uploads/2021/10/box.png",
-				"url": "https://ok.ru/video/3922573986306",
 				"isHost": "true"
 			}, {
 				"name": "Fireworks (2017)",
