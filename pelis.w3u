@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 16/07/24)",
+	"author": "Javito (actualizada 19/07/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -3008,6 +3008,11 @@
 				"name": "Desafío total (1990)",
 				"image": "https://pics.filmaffinity.com/Desaf_o_total-108209887-large.jpg",
 				"url": "https://upstream.to/93z785ggs3kf",
+				"isHost": "true"
+			}, {
+				"name": "Descifrando Enigma (The Imitation Game) (2014)",
+				"image": "https://m.media-amazon.com/images/S/pv-target-images/21c3d2d0e7d1bd41086319dc3735911dd1a66ff6bad38fe29c0754cd2597bb23.jpg",
+				"url": "https://upstream.to/zbozjejys7bt",
 				"isHost": "true"
 			}, {
 				"name": "De repente el último verano (1959)",
