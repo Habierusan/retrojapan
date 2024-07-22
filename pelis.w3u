@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 19/07/24)",
+	"author": "Javito (actualizada 22/07/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -1481,6 +1481,12 @@
 				"name": "La comunidad (2019)",
 				"image": "https://c8.alamy.com/compes/p0tnj5/el-titulo-original-de-la-pelicula-la-comunidad-titulo-en-ingles-la-riqueza-comun-el-director-de-cine-alex-de-la-iglesia-ano-2000-credito-lolafilms-album-p0tnj5.jpg",
 				"url": "https://ok.ru/video/1979184974452",
+				"isHost": "true"
+			}, {
+				"name": "La noche de los girasoles (2006)",
+				"image": "https://pics.filmaffinity.com/La_noche_de_los_girasoles-155353940-large.jpg",
+				"url": "https://gamovideo.net/sdq7yt9bxenh",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "La trinchera infinita (2019)",
