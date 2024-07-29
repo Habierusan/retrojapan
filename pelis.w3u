@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 22/07/24)",
+	"author": "Javito (actualizada 29/07/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -19,6 +19,11 @@
 				"name": "Air (2023)",
 				"image": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/7/5/0/40577-3-esl-CO/4e04af5a54e2-warner_air_cinecol_480x670.png",
 				"url": "https://upstream.to/hkgnpl56j714",
+				"isHost": "true"
+			}, {
+				"name": "Bad Boys: Ride Or Die (2024)",
+				"image": "https://fr.web.img4.acsta.net/c_310_420/img/ef/bb/efbbe86f093b0904258c8a9b1e60bae7.jpg",
+				"url": "https://pixeldrain.com/u/M99f9uYw",
 				"isHost": "true"
 			}, {
 				"name": "Avatar: El sentido del agua (2022)",
