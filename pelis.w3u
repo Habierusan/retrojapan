@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 29/07/24)",
+	"author": "Javito (actualizada 15/08/24)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
@@ -4050,6 +4050,12 @@
 				"name": "Un viaje de diez metros (2014)",
 				"image": "https://pics.filmaffinity.com/Un_viaje_de_diez_metros-885959913-large.jpg",
 				"url": "https://upstream.to/qko7qe11d8q0",
+				"isHost": "true"
+			}, {
+				"name": "Una cuestión de tiempo (2013)",
+				"image": "https://pics.filmaffinity.com/Una_cuestiaon_de_tiempo-277648846-large.jpg",
+				"url": "https://gamovideo.net/d8na2vub2uem",
+                "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
 				"isHost": "true"
 			}, {
 				"name": "Una historia del Bronx (1993)",
