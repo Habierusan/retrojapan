@@ -230,6 +230,11 @@
 				"image": "https://img2.rtve.es/imagenes/cartel-nina-comunion/1675939941205.jpg",
 				"url": "https://upstream.to/ajjxjrwas8te",
 				"isHost": "true"
+            		}, { 
+                		"name": "La promesa de Irene (2024)",
+               			"image": "https://www.ecartelera.com/carteles/18400/18470/001_p.webp",
+                		"url": "https://vidmoly.to/6r3mbpljg6le",
+               			"isHost":"true"  
 			}, {
 				"name": "La sirenita (2023)",
 				"image": "https://es.web.img2.acsta.net/c_310_420/pictures/23/03/14/15/12/2449709.jpg",
