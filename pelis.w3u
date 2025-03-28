@@ -1,19 +1,19 @@
 {
-	"name": "JAVIPELIS🎬(Capado Vodafone)",
-	"author": "Javito (actualizada 04/09/24)",
+	"name": "JAVIPELIS🎬",
+	"author": "Javito (actualizada 19/02/25)",
 	"image": "https://i.gifer.com/TwtY.gif",
-	"info": "Selección de películas de Javito. Sin ánimo de lucro",
-	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/pelis.w3u",
+	"info": "Selección de películas de Javito para consumo propio. Sin ánimo de lucro",
+	"url": "https://pastebin.com/ezMk28NR",
 	"groups": [{
 
-			"name": "ESTRENOS",
+			"name": "ESTRENOS (23/24)",
 			"image": "https://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif",
 			"info": "Películas recientes",
 			"stations": [{
-
+ 
 				"name": "65 (2023)",
 				"image": "https://pics.filmaffinity.com/65-475553469-large.jpg",
-				"url": "https://upstream.to/2zgxqnfotals",
+				"url": "https://vidmoly.to/w/km26yx2564f9",
 				"isHost": "true"
 			}, {
 				"name": "Air (2023)",
@@ -26,19 +26,10 @@
 				"url": "https://pixeldrain.com/u/M99f9uYw",
 				"isHost": "true"
 			}, {
-				"name": "Avatar: El sentido del agua (2022)",
-				"image": "https://pics.filmaffinity.com/Avatar_El_sentido_del_agua-653971850-large.jpg",
-				"url": "https://upstream.to/usc9p9ibv8ix",
-				"isHost": "true"
-			}, {
-				"name": "Babylon (2022)",
-				"image": "https://pics.filmaffinity.com/Babylon-747027954-large.jpg",
-				"url": "https://upstream.to/4msgn0qoexvi",
-				"isHost": "true"
-			}, {
 				"name": "Barbie (2023)",
 				"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
-				"url": "https://upstream.to/hci6bnukwohk",
+				"url": "https://gamovideo.net/tuof7zndarly",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Bird Box Barcelona (2023)",
@@ -48,12 +39,12 @@
 			}, {
 				"name": "Blue Beetle (2023)",
 				"image": "https://pics.filmaffinity.com/Blue_Beetle-374893789-large.jpg",
-				"url": "https://upstream.to/05zvdsayvy9v",
+				"url": "https://vidmoly.to/embed-jai81nz79w13.html",
 				"isHost": "true"
 			}, {
 				"name": "Campeonex (2023)",
 				"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
-				"url": "https://vidmoly.to/3xfn7kg1r3la",
+				"url": "https://upstream.to/jydybxd096sn",
 				"isHost": "true"
 			}, {
 				"name": "Cazafantasmas: Imperio helado (2024)",
@@ -76,6 +67,17 @@
 				"url": "https://upstream.to/yvei43xm4udq",
 				"isHost": "true"
 			}, {
+				"name": "Deadpool y Lobezno (2024)",
+				"image": "https://www.espaciomarvelita.com/wp-content/uploads/2024/04/Deadpool-y-Lobezno.jpg?ezimgfmt=ngcb2/notWebP",
+				"url": "https://vidmoly.to/ypovpeg1dvkc",
+				"isHost": "true"
+			}, {
+				"name": "Del revés 2 (2024)",
+				"image": "https://lumiere-a.akamaihd.net/v1/images/image_26964b90.jpeg",
+				"url": "https://gamovideo.net/q3ux294bcqbi",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
 				"name": "Desmadre incluido (2023)",
 				"image": "https://pics.filmaffinity.com/Desmadre_incluido-417627596-large.jpg",
 				"url": "https://vidmoly.to/4q9g8zlmokg2",
@@ -86,19 +88,9 @@
 				"url": "https://vidmoly.to/embed-qdtycugddlhr.html",
 				"isHost": "true"
 			}, {
-				"name": "Dragon Ball Super: Super Hero (2022)",
-				"image": "https://fr.web.img2.acsta.net/pictures/22/07/06/12/15/1536908.jpg",
-				"url": "https://upstream.to/82vkmpap77nt",
-				"isHost": "true"
-			}, {
 				"name": "Dragones y mazmorras: Honor entre ladrones (2023)",
 				"image": "https://pics.filmaffinity.com/Dungeons_Dragons_Honor_entre_ladrones-651649500-large.jpg",
 				"url": "https://upstream.to/eqlq8poc9iqx",
-				"isHost": "true"
-			}, {
-				"name": "Doctor Strange en el multiverso de la locura (2022)",
-				"image": "https://pics.filmaffinity.com/Doctor_Strange_en_el_multiverso_de_la_locura-750542602-large.jpg",
-				"url": "https://upstream.to/bns27ikpuxn7",
 				"isHost": "true"
 			}, {
 				"name": "Elemental (2023)",
@@ -106,9 +98,11 @@
 				"url": "https://upstream.to/bvofx5o6cd5u",
 				"isHost": "true"
 			}, {
-				"name": "El exorcismo de Dios (2022)",
-				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
-				"url": "https://vidmoly.to/embed-360qgq1yaojy.html",
+				"name": "El 47 (2024)",
+				"image": "https://pics.filmaffinity.com/El_47-838476618-large.jpg",
+				"url": "https://upstream.to/88dc3fwpdhoc",
+				"url": "https://listeamed.net/v/k3gG5q8B9aAO1N2",
+                "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36" ,
 				"isHost": "true"
 			}, {
 				"name": "El exorcista del papa (2023)",
@@ -131,11 +125,6 @@
 				"url": "https://upstream.to/m28d92plsqtr",
 				"isHost": "true"
 			}, {
-				"name": "El peor vecino del mundo (2022)",
-				"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
-				"url": "https://upstream.to/byn2fnlpw1i7",
-				"isHost": "true"
-			}, {
 				"name": "El piloto (2023)",
 				"image": "https://pics.filmaffinity.com/El_piloto-759873939-large.jpg",
 				"url": "https://upstream.to/ykipr8xczo1r",
@@ -153,7 +142,7 @@
 			}, {
 				"name": "Fast & Furious X (2023)",
 				"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
-				"url": "https://vidmoly.to/embed-gf80ohtgwi4k.html",
+				"url": "https://vidmoly.to/embed-1wa4svbvpntk.html",
 				"isHost": "true"
 			}, {
 				"name": "Flash (2023)",
@@ -166,29 +155,25 @@
 				"url": "https://upstream.to/5fue9mueskml",
 				"isHost": "true"
 			}, {
+				"name": "Gladiator II (2024)",
+				"image": "https://pics.filmaffinity.com/Gladiator_II-299130699-large.jpg",
+				"url": "https://gamovideo.net/g2gtud7na1e7",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
 				"name": "Gran Turismo (2023)",
 				"image": "https://pics.filmaffinity.com/Gran_Turismo-692574744-large.jpg",
 				"url": "https://upstream.to/ray49cchs84d",
 				"isHost": "true"
 			}, {
+				"name": "Gru, mi villano favorito 4 (2024)",
+				"image": "https://pics.filmaffinity.com/Gru_4_Mi_villano_favorito-551473536-large.jpg",
+				"url": "https://vidmoly.to/h9q0faiqu8p0",
+				"isHost": "true"
+			}, {
 				"name": "Guardianes de la Galaxia: Volumen 3 (2023)",
 				"image": "https://surtdecasa.cat/sites/default/files/imatges-pujades/2019T1/imatges/guardiane.jpg",
 				"url": "https://upstream.to/4z2mljwxe9wn",
-				"isHost": "true"
-			}, {
-				"name": "Hacia la libertad (2022)",
-				"image": "https://image.tmdb.org/t/p/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg",
-				"url": "https://upstream.to/w2rw297qm81v",
-				"isHost": "true"
-			}, {
-				"name": "Indiana Jones y el dial del destino (2023)",
-				"image": "https://static.wikia.nocookie.net/doblaje/images/b/b6/Indiana_Jones_y_el_dial_del_destino_-_P%C3%B3ster_final.jpeg/revision/latest?cb=20230602201511&path-prefix=es",
-				"url": "https://upstream.to/kw8fbke3s5qf",
-				"isHost": "true"
-			}, {
-				"name": "Irati (2022)",
-				"image": "https://pics.filmaffinity.com/Irati-412669481-large.jpg",
-				"url": "https://upstream.to/snzy9krs7sbt",
 				"isHost": "true"
 			}, {
 				"name": "Jeanne du Barry (2023)",
@@ -200,50 +185,41 @@
 				"image": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF1000,1000_QL80_.jpg",
 				"url": "https://upstream.to/6jbqytw0xaw3",
 				"isHost": "true"
-			}, {
-				"name": "La ballena (2022)",
-				"image": "https://pics.filmaffinity.com/La_ballena_The_Whale-547391789-large.jpg",
-				"url": "https://upstream.to/rypbb9hfhmxe",
-				"isHost": "true"
-          		  }, { 
-             		        "name": "La ermita (2023)",
-               		        "image": "https://pics.filmaffinity.com/La_ermita-157907394-large.jpg",
-               		        "url": "https://upstream.to/95t1sye27vjt",
-                		"isHost":"true"   
+            }, { 
+                "name": "La ermita (2023)",
+                "image": "https://pics.filmaffinity.com/La_ermita-157907394-large.jpg",
+                "url": "https://upstream.to/95t1sye27vjt",
+                "isHost":"true"   
             }, { 
                 "name": "La liberación (2024)",
                 "image": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237188/EN-US_DELIVERANCE_Main_Vertical_27x40_sRGB_PRE.jpg",
                 "url": "https://vidmoly.to/d2kerbuychit",
                 "isHost":"true"   
-			}, {
-				"name": "La madre (2023)",
-				"image": "https://pics.filmaffinity.com/La_madre-219102487-large.jpg",
-				"url": "https://upstream.to/nrdc340zbz77",
-				"isHost": "true"
-         	   }, { 
+            }, { 
+                "name": "La madre (2023)",
+                "image": "https://pics.filmaffinity.com/La_madre-219102487-large.jpg",
+                "url": "https://upstream.to/nrdc340zbz77",
+                "isHost":"true"   
+            }, { 
                 "name": "La monja II (2023)",
                 "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/08/monja-ii-3116952.jpg?tf=3840x",
                 "url": "https://upstream.to/re6z4z4ohf7p",
                 "isHost":"true"  
-			}, {
-				"name": "La niña de la comunión (2023)",
-				"image": "https://img2.rtve.es/imagenes/cartel-nina-comunion/1675939941205.jpg",
-				"url": "https://upstream.to/ajjxjrwas8te",
-				"isHost": "true"
-            		}, { 
-                		"name": "La promesa de Irene (2024)",
-               			"image": "https://www.ecartelera.com/carteles/18400/18470/001_p.webp",
-                		"url": "https://vidmoly.to/6r3mbpljg6le",
-               			"isHost":"true"  
-			}, {
-				"name": "La sirenita (2023)",
-				"image": "https://es.web.img2.acsta.net/c_310_420/pictures/23/03/14/15/12/2449709.jpg",
-				"url": "https://upstream.to/ec4zshzr8vy6",
-				"isHost": "true"
+            }, { 
+                "name": "La promesa de Irene (2024)",
+                "image": "https://www.ecartelera.com/carteles/18400/18470/001_p.webp",
+                "url": "https://vidmoly.to/obr6258wamnx",
+                "isHost":"true"  
+            }, { 
+                "name": "La sirenita (2023)",
+                "image": "https://es.web.img2.acsta.net/c_310_420/pictures/23/03/14/15/12/2449709.jpg",
+                "url": "https://upstream.to/ec4zshzr8vy6",
+                "isHost":"true"  
 			}, {
 				"name": "La sociedad de la nieve (2023)",
 				"image": "https://www.bizcochito.es/Films/Poster/tt16277242.webp",
-				"url": "https://vidmoly.to/0sg3aykuxvka",
+				"url": "https://gamovideo.net/e7x81o2tv3cd",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "La ternura (2023)",
@@ -255,20 +231,16 @@
 				"image": "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/llaman-a-la-puerta-q1ktorov89xbk4s80mxd53pewfuekcp5qmu29w6ark.jpg",
 				"url": "https://upstream.to/r2481khxuibs",
 				"isHost": "true"
-			}, {
+		}, {
 				"name": "Los asesinos de la luna (2023)",
 				"image": "https://www.aceprensa.com/wp-content/uploads/2023/10/los-asesinos-de-la-luna-1.jpg",
-				"url": "https://upstream.to/wk4svmt2okri",
+				"url": "https://upstream.to/srzb11x5cbic",
+                "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
 				"isHost": "true"
 			}, {
 				"name": "Los Caballeros del Zodíaco (2023)",
 				"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/42099-134368-20230427103539.jpg",
 				"url": "https://upstream.to/bh4whgu4qitd",
-				"isHost": "true"
-			}, {
-				"name": "Los Fabelman (2022)",
-				"image": "https://pics.filmaffinity.com/Los_Fabelman-540992417-large.jpg",
-				"url": "https://upstream.to/wuitw9khi7nu",
 				"isHost": "true"
 			}, {
 				"name": "Los mercen4rios (2023)",
@@ -284,11 +256,6 @@
 				"name": "Mari(dos) (2023)",
 				"image": "https://pics.filmaffinity.com/Mari_dos-119061049-large.jpg",
 				"url": "https://upstream.to/8vizgm7rkygy",
-				"isHost": "true"
-			}, {
-				"name": "Marlowe (2022)",
-				"image": "https://pics.filmaffinity.com/Marlowe-770445566-large.jpg",
-				"url": "https://vidmoly.me/w/w9b2v0bd07u8",
 				"isHost": "true"
 			}, {
 				"name": "Matusalén (2024)",
@@ -308,7 +275,7 @@
 			}, {
 				"name": "Me he hecho viral (2023)",
 				"image": "https://pics.filmaffinity.com/Me_he_hecho_viral-551379306-large.jpg",
-				"url": "https://vidmoly.to/f1hew2w2znov",
+				"url": "https://upstream.to/uz4pjohmjwq1",
 				"isHost": "true"
 			}, {
 				"name": "Misión: Imposible - Sentencia mortal (Parte I) (2023)",
@@ -321,24 +288,19 @@
 				"url": "https://upstream.to/3sjcxiv8gasc",
 				"isHost": "true"
 			}, {
-				"name": "Moonfall (2022)",
-				"image": "https://pics.filmaffinity.com/Moonfall-603240014-large.jpg",
-				"url": "https://upstream.to/sw5xfhdyh5cl",
-				"isHost": "true"
-			}, {
 				"name": "Napoleón (2023)",
 				"image": "https://lh3.googleusercontent.com/proxy/bjD4MWe1nzxdhN37Z73tWoO9wWgiICe4XqO7wP2mQiEouFaQHDYBgOq2AdQqSLcjHsnOIpqcrW_SNjW5qYkzepvi6187bMA5U1Lf9kX9o-pYBPEYxh2v0vmVqUn7nQMMuzc",
-				"url": "https://upstream.to/5k38bxcwldmp",
+				"url": "https://vidmoly.to/d5j5fs5y9kdj",
 				"isHost": "true"
 			}, {
-				"name": "No mires a los ojos (2022)",
-				"image": "https://pics.filmaffinity.com/No_mires_a_los_ojos-999615368-large.jpg",
-				"url": "https://upstream.to/yca733sywbgi",
+				"name": "Nosferatu (2024)",
+				"image": "https://image.tmdb.org/t/p/original/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+				"url": "https://vidhidefast.com/f/ddfhrwnr7hai",
 				"isHost": "true"
 			}, {
-				"name": "Nostalgia (2022)",
-				"image": "https://pics.filmaffinity.com/Nostalgia-449366830-large.jpg",
-				"url": "https://upstream.to/7zc26bqy5ipv",
+				"name": "Nowhere (2023)",
+				"image": "https://pics.filmaffinity.com/Nowhere-676226361-mmed.jpg",
+				"url": "https://upstream.to/w2qom7qsyz8n",
 				"isHost": "true"
 			}, {
 				"name": "Ocho apellidos marroquís (2023)",
@@ -353,7 +315,7 @@
 			}, {
 				"name": "Oppenheimer (2023)",
 				"image": "https://149987065.v2.pressablecdn.com/wp-content/uploads/2023/05/Oppenheimer-de-Christopher-Nolan-obtiene-nuevo-poster.632:1,smart.jpeg",
-				"url": "https://gamovideo.net/fgtwoaczaeuz",
+				"url": "https://upstream.to/zp23utk52d2i",
 				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
@@ -397,14 +359,26 @@
 				"url": "https://upstream.to/ibc7u9p7tge5",
 				"isHost": "true"
 			}, {
+				"name": "Sonic 3 (2024)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzMxOTYyY2YtNzNlMy00MGEwLTg0YjUtODAwNjgyNWFmZDIwXkEyXkFqcGc@._V1_.jpg",
+				"url": "https://filemoon.to/d/mg4o0ir1rn6q",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
 				"name": "Sound of freedom (2023)",
 				"image": "https://pics.filmaffinity.com/Sound_of_Freedom-546775358-large.jpg",
 				"url": "https://filemoon.sx/d/nk7qiwfz0inm/z_Sound_of_Freedom.mp4",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Spider-Man: Cruzando el Multiverso (2023)",
 				"image": "https://cinesembajadores.es/wp-content/uploads/2023/05/FvmGxY0XoAc7i4X.jpeg",
 				"url": "https://upstream.to/g6smfkutde18",
+				"isHost": "true"
+			}, {
+				"name": "Superdetective en Hollywood 4 (2024)",
+				"image": "https://pics.filmaffinity.com/Superdetective_en_Hollywood_Axel_F-677302081-large.jpg",
+				"url": "https://vidmoly.to/dk2h9zibgp4b",
 				"isHost": "true"
 			}, {
 				"name": "Súper Mario Bros: La película (2023)",
@@ -432,9 +406,10 @@
 				"url": "https://upstream.to/p37hgzhumszi",
 				"isHost": "true"
 			}, {
-				"name": "Una boda explosiva (2022)",
-				"image": "https://pics.filmaffinity.com/Una_boda_explosiva-124544762-large.jpg",
-				"url": "https://upstream.to/p50mtaqjp46f",
+				"name": "Vaiana 2 (2024)",
+				"image": "https://lumiere-a.akamaihd.net/v1/images/image_3ee816be.jpeg",
+				"url": "https://filemoon.to/d/bslozoaj661g",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "¡Vaya vacaciones! (2023)",
@@ -446,12 +421,6 @@
 				"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/11/wonka-3233758.jpg?tf=1200x",
 				"url": "https://vidmoly.to/cdj2ync0dsu5",
 				"isHost": "true"
-			}, {
-				"name": "Yuku y la flor del Himalaya (2022)",
-				"image": "https://www.packmagic.cat/wp-content/uploads/2022/12/Yuku_cartell_A4_CAST-scaled.jpg",
-				"url": "https://gamovideo.net/zg2dh4mfow1t",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
 			}]
 		},
 
@@ -461,8 +430,8 @@
 			"image": "https://i.gifer.com/YUM3.gif",
 			"info": "Ciclos y filmografías de históricos del cine",
 			"groups": [{
- 
- 
+				
+
 					"name": "Alfred Hitchcock",
 					"image": "https://images.mubicdn.net/images/cast_member/1163/cache-3-1337541407/image-w856.jpg",
 					"info": "Todas las películas de Alfred Hitchcock",
@@ -482,7 +451,7 @@
 				}
 			]
 		},
- 
+
 		{
 			"name": "STUDIO GHIBLI",
 			"image": "https://i.gifer.com/g4.gif",
@@ -512,7 +481,7 @@
 				"name": "El jardín de las palabras (2013)",
 				"image": "https://images.justwatch.com/poster/241826856/s718/el-jardin-de-las-palabras.%7Bformat%7D",
 				"url": "https://gamovideo.net/p2h6xg7rk339",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "El lugar que nos prometimos (2004)",
@@ -520,11 +489,12 @@
 				"url": "https://gamovideo.net/98ed8qou9wyx",
                 "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
+
 			}, {
 				"name": "El viaje de Chihiro (2001)",
 				"image": "https://pics.filmaffinity.com/El_viaje_de_Chihiro-957101046-large.jpg",
 				"url": "https://gamovideo.net/szm7cuw5ngwk",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "La colina de las amapolas (2011)",
@@ -582,7 +552,7 @@
 				"name": "Akira (1988)",
 				"image": "https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F007%2F841%2Fakira-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://gamovideo.net/6viwbf08cgd3",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Blue Thermal (2022)",
@@ -703,6 +673,11 @@
 				"url": "https://upstream.to/mx7i5fr7ac6t",
 				"isHost": "true"
 			}, {
+				"name": "Dragon Ball Super: Super Hero (2022)",
+				"image": "https://fr.web.img2.acsta.net/pictures/22/07/06/12/15/1536908.jpg",
+				"url": "https://upstream.to/82vkmpap77nt",
+				"isHost": "true"
+			}, {
 				"name": "El castillo de Cagliostro (1979)",
 				"image": "https://static.filmin.es/images/media/12109/4/poster_0_3.webp",
 				"url": "https://upstream.to/y28pirxjrgvp",
@@ -731,7 +706,7 @@
 				"name": "En este rincón del mundo (2016)",
 				"image": "https://images.justwatch.com/poster/8852572/s592/en-este-rincon-del-mundo",
 				"url": "https://gamovideo.net/6jj4y6s848gd",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Fireworks (2017)",
@@ -767,7 +742,7 @@
 				"name": "Los Caballeros del Zodiaco: La batalla de los dioses (1988)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1988/3/w1280/qPrNpzyKmZ2jSTvs5iPafz5lc3Y.jpg",
 				"url": "https://gamovideo.net/mokmi9ls5lul",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Los caballeros del Zodiaco: Los guerreros de la última Guerra Santa (1989)",
@@ -820,6 +795,11 @@
 				"url": "https://upstream.to/um0k3f420klz",
 				"isHost": "true"
 			}, {
+				"name": "Psycho-Pass: la película (2015)",
+				"image": "https://pics.filmaffinity.com/Psycho_Pass_la_pelaicula-422410558-large.jpg",
+				"url": "https://upstream.to/d0h6svyx34b5",
+				"isHost": "true"
+			}, {
 				"name": "Quiero comerme tu páncreas (2018)",
 				"image": "https://pics.filmaffinity.com/Quiero_comerme_tu_p_ncreas-891916960-large.jpg",
 				"url": "https://upstream.to/1hocr4gtzhkz",
@@ -855,8 +835,8 @@
 				"url": "https://upstream.to/5sjx8ifs88jd",
 				"isHost": "true"
 			}]
-		},
-
+		},	
+	
 		{
 
 			"name": "INFANTIL",
@@ -872,22 +852,22 @@
 				"name": "Aladdín (1992)",
 				"image": "https://pics.filmaffinity.com/Aladdin-969999617-large.jpg",
 				"url": "https://upstream.to/qeq644x0eqia",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Alicia en el País de las Maravillas (1951)",
 				"image": "https://www.ecured.cu/images/6/6b/Alicia_en_el_pais_de_las_maravillas01.jpg",
 				"url": "https://upstream.to/ymfkhyfnxg5w",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Astérix el Galo (1967)",
 				"image": "https://images.justwatch.com/poster/246666884/s592/asterix-el-galo",
 				"url": "https://ok.ru/video/1401304844954",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Astérix y Cleopatra (1968)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1968/12/w1280/eEyWpjAeBC7xnCDx26JPHrOrPCp.jpg",
 				"url": "https://ok.ru/video/443342719569",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Astérix: Las doce pruebas (1976)",
 				"image": "https://pics.filmaffinity.com/Ast_rix_y_las_12_pruebas-119364009-large.jpg",
@@ -897,22 +877,22 @@
 				"name": "Astérix y la sorpresa del César (1985)",
 				"image": "https://image.tmdb.org/t/p/w500/nVxcOIGRxeDy2MpgwPSXRQhTN45.jpg",
 				"url": "https://ok.ru/video/1613440289431",
-				"isHost": "true"
+				"isHost": "true"		
 			}, {
 				"name": "Astérix en Bretaña (1986)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1986/12/w1280/yCOHWYOaDW8W3HoD9jnlP5EPEDc.jpg",
 				"url": "https://ok.ru/video/4097970211417",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Astérix y el golpe del menhir (1989)",
 				"image": "https://images.justwatch.com/poster/246723843/s592/asterix-y-el-golpe-del-menhir",
 				"url": "https://ok.ru/video/4097970932313",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Astérix en América (1994)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/95/70/65/20423352.jpg",
 				"url": "https://ok.ru/video/4097970014809",
-				"isHost": "true"
+				"isHost": "true"	
 			}, {
 				"name": "Bambi (1942)",
 				"image": "https://pics.filmaffinity.com/Bambi-416541061-large.jpg",
@@ -944,9 +924,15 @@
 				"url": "https://upstream.to/99e75q454nw3",
 				"isHost": "true"
 			}, {
+				"name": "Coco (2017)",
+				"image": "https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg",
+				"url": "https://filemoon.sx/d/7irzkac3ynce",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
 				"name": "Del revés (2015)",
 				"image": "https://play-lh.googleusercontent.com/WUEX-pcNksCgusWuAC3kgJK3JMdBbsvthav1J9J3tw1f_AYElIu4fYh25GhFM64bJoyZ",
-				"url": "https://upstream.to/su715x1pobe2",
+				"url": "https://upstream.to/tq9cayhf34vz",
 				"isHost": "true"
 			}, {
 				"name": "Dumbo (1941)",
@@ -963,21 +949,21 @@
 				"image": "https://pics.filmaffinity.com/El_Grinch-432314903-large.jpg",
 				"url": "https://upstream.to/3efgp91osg3d",
 				"isHost": "true"
-			}, {
-				"name": "El hijo de la jungla (1973)",
-				"image": "https://pics.filmaffinity.com/the_world_s_greatest_athlete-627582851-mmed.jpg",
-				"url": "https://upstream.to/au6gh8pdy6fs",
-				"isHost": "true"
-			}, {
-				"name": "El jorobado de Notre Dame (1996)",
-				"image": "https://image.tmdb.org/t/p/w500//2xMfLRlHtwPoV3VAk1twyERGvx7.jpg",
-				"url": "https://upstream.to/ckqz8w5ohvmk",
-				"isHost": "true"
-			}, {
-				"name": "El libro de la selva (1967)",
-				"image": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-libro-de-la-selva-poster-6309_SPA-88_V.jpg",
-				"url": "https://upstream.to/4rzx7j3boidd",
-				"isHost": "true"
+            },{
+                "name": "El hijo de la jungla (1973)",
+                "image": "https://pics.filmaffinity.com/the_world_s_greatest_athlete-627582851-mmed.jpg",
+                "url": "https://upstream.to/au6gh8pdy6fs",
+                "isHost":"true" 
+            },{
+                "name": "El jorobado de Notre Dame (1996)",
+                "image": "https://image.tmdb.org/t/p/w500//2xMfLRlHtwPoV3VAk1twyERGvx7.jpg",
+                "url": "https://upstream.to/ckqz8w5ohvmk",
+                "isHost":"true" 
+            },{
+                "name": "El libro de la selva (1967)",
+                "image": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-libro-de-la-selva-poster-6309_SPA-88_V.jpg",
+                "url": "https://upstream.to/4rzx7j3boidd",
+                "isHost":"true" 
 			}, {
 				"name": "El mago de Oz (1939)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1939/8/w1280/eDLD2UTvX3zbiOcEHn0gJeVvZF7.jpg",
@@ -1016,14 +1002,14 @@
 			}, {
 				"name": "Flubber y el profesor chiflado (1997)",
 				"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E2AC6A38170175DB9B5FE4746DFBF489C993EC4BF64629FBD23D46205B3BC7C5/scale?width=506&aspectRatio=2.00&format=jpeg",
-				"url": "https://gamovideo.net/p5zf48op7znb",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "url": "https://gamovideo.net/p5zf48op7znb",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Frozen: el reino del hielo (2013)",
 				"image": "https://pics.filmaffinity.com/Frozen_El_reino_del_hielo-282096877-large.jpg",
 				"url": "https://gamovideo.net/l9vu1q0yyukd",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Harry Potter y la piedra filosofal (2001)",
@@ -1100,12 +1086,12 @@
 				"image": "https://diariodeunacinefila.files.wordpress.com/2014/09/poster-ice-age-4.jpg",
 				"url": "https://upstream.to/kc52hfpfimus",
 				"isHost": "true"
-			}, {
-				"name": "Jumanji",
-				"image": "https://pics.filmaffinity.com/Jumanji-403278403-large.jpg",
-				"url": "https://upstream.to/ikzas8dsh1l8",
-				"isHost": "true"
-			}, {
+            }, {
+                "name": "Jumanji",
+                "image": "https://pics.filmaffinity.com/Jumanji-403278403-large.jpg",
+                "url": "https://upstream.to/ikzas8dsh1l8",
+                "isHost":"true"
+            }, {
 				"name": "La bella durmiente (1959)",
 				"image": "https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F001%2F435%2Fla-bella-durmiente-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://upstream.to/yqop2wnjc30b",
@@ -1160,11 +1146,11 @@
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/82/96/96/19650723.jpg",
 				"url": "https://upstream.to/rrysccqvjmi0",
 				"isHost": "true"
-			}, {
-				"name": "Lightyear (2022)",
-				"image": "https://www.elseptimoarte.net/carteles/341/lightyear_93510.jpg",
-				"url": "https://upstream.to/nqed4gk4dqv2",
-				"isHost": "true"
+            }, { 
+                "name": "Lightyear (2022)",
+                "image": "https://www.elseptimoarte.net/carteles/341/lightyear_93510.jpg",
+                "url": "https://upstream.to/nqed4gk4dqv2",
+                "isHost":"true"  
 			}, {
 				"name": "Los hijos del Capitán Grant (1961)",
 				"image": "https://pics.filmaffinity.com/Los_hijos_del_capit_n_Grant-551715384-large.jpg",
@@ -1215,12 +1201,12 @@
 				"image": "https://es.web.img3.acsta.net/pictures/20/03/18/14/54/0669545.jpg",
 				"url": "https://ok.ru/video/3641878055428",
 				"isHost": "true"
-			}, {
-				"name": "Mi gran amigo Joe (1998)",
-				"image": "https://pics.filmaffinity.com/Mi_gran_amigo_Joe-455380848-large.jpg",
-				"url": "https://gamovideo.net/r2sfohvmkkvm",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
+            }, {
+                "name": "Mi gran amigo Joe (1998)",
+                "image": "https://pics.filmaffinity.com/Mi_gran_amigo_Joe-455380848-large.jpg",
+                "url": "https://gamovideo.net/r2sfohvmkkvm",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost": "true"
 			}, {
 				"name": "Mortadelo y Filemón: Primer Festival (1969)",
 				"image": "https://pics.filmaffinity.com/Primer_Festival_de_Mortadelo_y_Filem_n_agencia_de_informaci_n-397904263-mmed.jpg",
@@ -1269,13 +1255,13 @@
 			}, {
 				"name": "Paddington (2014)",
 				"image": "https://es.web.img3.acsta.net/pictures/14/11/03/15/36/301097.jpg",
-				"url": "https://upstream.to/558gqpp7jmf0",
+				"url": "https://xovmry6flrcf.milocdn.com/hls2/01/01344/k05cb66eei6d_h/master.m3u8?t=B9deZJAL_sICig97Jk91yPjV6OUA5F8NcqIBzDZvS7s&s=1732300978&e=129600&f=6724054&srv=Kox3QQrJcuy8&i=0.4&sp=500&p1=Kox3QQrJcuy8&p2=Kox3QQrJcuy8&asn=12430",
 				"isHost": "true"
 			}, {
 				"name": "Paddington 2 (2017)",
 				"image": "https://static.wikia.nocookie.net/doblaje/images/8/81/Paddington_two_ver20_xlg.jpg/revision/latest?cb=20171129164907&path-prefix=es",
-				"url": "https://gamovideo.net/n8qdk2bv0thp",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "url": "https://gamovideo.net/n8qdk2bv0thp",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Pedro y el dragón Elliot (1977)",
@@ -1290,8 +1276,8 @@
 			}, {
 				"name": "Pinocho (1940)",
 				"image": "https://play-lh.googleusercontent.com/vmwvke9JmwNsEKiMk1gV6cmcHQbyxajCSnLi8HTI6ZON_mS-I8CW4mt5qciVuFYVioUs",
-				"url": "https://gamovideo.net/95v6o8l4xndj",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "url": "https://gamovideo.net/95v6o8l4xndj",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Pinocho (2022)",
@@ -1383,11 +1369,11 @@
 				"image": "https://pics.filmaffinity.com/Toy_Story_4-141271858-large.jpg",
 				"url": "https://upstream.to/tvii1hzp41tz",
 				"isHost": "true"
-			}, {
-				"name": "Transformers: La película (1986)",
-				"image": "https://3.bp.blogspot.com/-TtFpN2Cw3Lg/VcZRFCkYVsI/AAAAAAAAc40/sCWsHVjN1qY/s1600/e8eZ6KHGJj9qXkVCsBW1VWVtSKT.jpg",
-				"url": "https://ok.ru/video/3060624656940",
-				"isHost": "true"
+            }, { 
+                "name": "Transformers: La película (1986)",
+                "image": "https://3.bp.blogspot.com/-TtFpN2Cw3Lg/VcZRFCkYVsI/AAAAAAAAc40/sCWsHVjN1qY/s1600/e8eZ6KHGJj9qXkVCsBW1VWVtSKT.jpg",
+                "url": "https://ok.ru/video/3060624656940",
+                "isHost":"true"
 			}, {
 				"name": "Solo en casa (1990)",
 				"image": "https://cartelera.elpais.com/assets/uploads/2018/12/21030155/F_12929.jpg",
@@ -1396,7 +1382,8 @@
 			}, {
 				"name": "Solo en casa 2: Perdido en Nueva York (1992)",
 				"image": "https://pics.filmaffinity.com/Solo_en_casa_2_Perdido_en_Nueva_York-734537978-large.jpg",
-				"url": "https://upstream.to/ilroxmjj2urk",
+				"url": "https://gamovideo.net/ht3pkgaokzll",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Super 8 (2011)",
@@ -1424,6 +1411,11 @@
 				"url": "https://upstream.to/8q8qy2qrceam",
 				"isHost": "true"
 			}, {
+				"name": "La cita de Carl (2023)",
+				"image": "https://pics.filmaffinity.com/La_cita_de_Carl_C-757146366-large.jpg",
+				"url": "https://upstream.to/nj4kyen7d1qh",
+				"isHost": "true"
+			}, {
 				"name": "Vaiana (2016)",
 				"image": "https://www.lahiguera.net/cinemania/pelicula/6893/vaiana-cartel-7263.jpg",
 				"url": "https://upstream.to/aj4l1a5ny978",
@@ -1437,7 +1429,13 @@
 				"name": "Willow (1988)",
 				"image": "https://static.wikia.nocookie.net/doblaje/images/9/9c/Willow_Poster.jpg/revision/latest?cb=20210114040835&path-prefix=es",
 				"url": "https://gamovideo.net/m6exnv1pgrum",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
+				"name": "Yuku y la flor del Himalaya (2022)",
+				"image": "https://www.packmagic.cat/wp-content/uploads/2022/12/Yuku_cartell_A4_CAST-scaled.jpg",
+				"url": "https://gamovideo.net/zg2dh4mfow1t",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}]
 		},
@@ -1465,7 +1463,7 @@
 				"name": "As bestas (2022)",
 				"image": "https://pics.filmaffinity.com/As_bestas-275688233-large.jpg",
 				"url": "https://gamovideo.net/v3lfaht9odop",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Campeones (2018)",
@@ -1503,20 +1501,20 @@
 				"url": "https://upstream.to/j6ht1yw67mqz",
 				"isHost": "true"
 			}, {
-				"name": "La comunidad (2019)",
+				"name": "La comunidad (2000)",
 				"image": "https://c8.alamy.com/compes/p0tnj5/el-titulo-original-de-la-pelicula-la-comunidad-titulo-en-ingles-la-riqueza-comun-el-director-de-cine-alex-de-la-iglesia-ano-2000-credito-lolafilms-album-p0tnj5.jpg",
 				"url": "https://ok.ru/video/1979184974452",
+				"isHost": "true"
+			}, {
+				"name": "La trinchera infinita (2019)",
+				"image": "https://pics.filmaffinity.com/La_trinchera_infinita-366576124-large.jpg",
+				"url": "https://upstream.to/2ul0ebp2pqxo",
 				"isHost": "true"
 			}, {
 				"name": "La noche de los girasoles (2006)",
 				"image": "https://pics.filmaffinity.com/La_noche_de_los_girasoles-155353940-large.jpg",
 				"url": "https://gamovideo.net/sdq7yt9bxenh",
                 "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
-			}, {
-				"name": "La trinchera infinita (2019)",
-				"image": "https://pics.filmaffinity.com/La_trinchera_infinita-366576124-large.jpg",
-				"url": "https://upstream.to/2ul0ebp2pqxo",
 				"isHost": "true"
 			}, {
 				"name": "Mar adentro (2004)",
@@ -1537,7 +1535,7 @@
 				"name": "Palmeras en la nieve (2015)",
 				"image": "https://pics.filmaffinity.com/Palmeras_en_la_nieve-535926239-large.jpg",
 				"url": "https://gamovideo.net/to6se5acsktx",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Primos (2011)",
@@ -1554,8 +1552,9 @@
 				"image": "https://images.justwatch.com/poster/243462009/s718/all-about-my-mother.jpg",
 				"url": "https://vidmoly.to/4dbi56oxzbk3",
 				"isHost": "true"
-			}]
-		},
+				}
+			]
+		},	
 		{
 			"name": "SAGAS",
 			"image": "https://media.revistagq.com/photos/5d147c8327422231f1e33140/master/pass/5-sagas-cine.jpg",
@@ -1570,7 +1569,7 @@
 				"name": "28 semanas después (2007)",
 				"image": "https://pics.filmaffinity.com/28_semanas_despu_s-147251709-large.jpg",
 				"url": "https://gamovideo.net/orteonxf4c4r",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "300 (2007)",
@@ -1648,6 +1647,16 @@
 				"url": "https://upstream.to/xhxsm7exmo22",
 				"isHost": "true"
 			}, {
+				"name": "Avatar (2009)",
+				"image": "https://pics.filmaffinity.com/Avatar-208925608-large.jpg",
+				"url": "https://upstream.to/ooui25cpq5nl",
+				"isHost": "true"
+			}, {
+				"name": "Avatar: El sentido del agua (2022)",
+				"image": "https://pics.filmaffinity.com/Avatar_El_sentido_del_agua-653971850-large.jpg",
+				"url": "https://upstream.to/usc9p9ibv8ix",
+				"isHost": "true"
+			}, {
 				"name": "Battle Royale (2000)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/72/16/67/20299125.jpg",
 				"url": "https://upstream.to/levzz69xszzn",
@@ -1723,11 +1732,6 @@
 				"url": "https://upstream.to/4j1ieh5fgnhl",
 				"isHost": "true"
 			}, {
-				"name": "El becario (2015)",
-				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/9/w1280/bpaq572AFnI4JtufuVqcRZrlDdz.jpg",
-				"url": "https://upstream.to/1twn7g34p30g",
-				"isHost": "true"
-			}, {
 				"name": "El caso Bourne (2002)",
 				"image": "https://pics.filmaffinity.com/El_caso_Bourne-371726827-large.jpg",
 				"url": "https://upstream.to/nwwivlnkbnht",
@@ -1780,7 +1784,8 @@
 			}, {
 				"name": "El Hobbit: Un viaje inesperado (2012)",
 				"image": "https://pics.filmaffinity.com/El_Hobbit_Un_viaje_inesperado-817871257-large.jpg",
-				"url": "https://upstream.to/vw9bm2hyqd8o",
+				"url": "https://gamovideo.net/dpbfa38moo9n",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "El Hobbit: La desolación de Smaug (2013)",
@@ -1792,21 +1797,21 @@
 				"image": "https://pics.filmaffinity.com/El_Hobbit_La_batalla_de_los_cinco_ej_rcitos-282438316-large.jpg",
 				"url": "https://upstream.to/j7heo5yen6ve",
 				"isHost": "true"
-			}, {
-				"name": "El padrino (1972)",
-				"image": "https://www.elseptimoarte.net/carteles/341/el_padrino_91929.jpg",
-				"url": "https://upstream.to/soo2v5thlzn4",
-				"isHost": "true"
-			}, {
-				"name": "El padrino: Parte II (1974)",
-				"image": "https://www.elseptimoarte.net/carteles/341/el_padrino_parte_2.jpg",
-				"url": "https://upstream.to/9ovqxkdw7av2",
-				"isHost": "true"
-			}, {
-				"name": "El padrino: Parte III (1990)",
-				"image": "https://www.elseptimoarte.net/carteles/341/el_padrino_parte_iii_83410.jpg",
-				"url": "https://upstream.to/lqt9yoq1rvwb",
-				"isHost": "true"
+             },{ 
+                "name": "El padrino (1972)",
+                "image": "https://www.elseptimoarte.net/carteles/341/el_padrino_91929.jpg",
+                "url": "https://upstream.to/soo2v5thlzn4",
+                "isHost":"true"
+             },{ 
+                "name": "El padrino: Parte II (1974)",
+                "image": "https://www.elseptimoarte.net/carteles/341/el_padrino_parte_2.jpg",
+                "url": "https://upstream.to/9ovqxkdw7av2",
+                "isHost":"true"
+             },{ 
+                "name": "El padrino: Parte III (1990)",
+                "image": "https://www.elseptimoarte.net/carteles/341/el_padrino_parte_iii_83410.jpg",
+                "url": "https://upstream.to/lqt9yoq1rvwb",
+                "isHost":"true"
              },{ 
                 "name": "El planeta de los simios (1968)",
                 "image": "https://pics.filmaffinity.com/El_planeta_de_los_simios-661286625-large.jpg",
@@ -1886,7 +1891,7 @@
 				"name": "Expediente Warren. Annabelle vuelve a casa (2019)",
 				"image": "https://media.vogue.es/photos/5d2782a1695efa000881bb80/master/pass/ANNABELLE%20VUELVE%20A%20CASA%20MAIN.jpg",
 				"url": "https://gamovideo.net/39b64gg7asfw",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Expediente Warren. The conjuring (2014)",
@@ -1897,13 +1902,13 @@
 				"name": "Expediente Warren. La llorona (2019)",
 				"image": "https://pics.filmaffinity.com/La_Llorona-479885941-large.jpg",
 				"url": "https://gamovideo.net/3wkbi2tb0qjn",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Expediente Warren. El caso Enfield (2016)",
 				"image": "https://pics.filmaffinity.com/Expediente_Warren_El_caso_Enfield-134705690-large.jpg",
 				"url": "https://gamovideo.net/surnfhlp7s9g",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Expediente Warren. Obligado por el demonio (2021)",
@@ -1914,7 +1919,7 @@
 				"name": "Godzilla (2014)",
 				"image": "https://pics.filmaffinity.com/Godzilla-136516279-large.jpg",
 				"url": "https://gamovideo.net/rmsqvm5agiei",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Godzilla: Rey de los monstruos (2019)",
@@ -1935,7 +1940,7 @@
 				"name": "Gremlins 2: La nueva generación (1990)",
 				"image": "https://pics.filmaffinity.com/Gremlins_2_la_nueva_generaci_n-645513601-large.jpg",
 				"url": "https://gamovideo.net/nkyhqk33b04g",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Guardianes de la galaxia (2014)",
@@ -1961,7 +1966,7 @@
 				"name": "Idiocracia (2006)",
 				"image": "https://pics.filmaffinity.com/Idiocracia-446744279-large.jpg",
 				"url": "https://gamovideo.net/ggtqiqlh85bh",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Independence Day (1996)",
@@ -1976,39 +1981,49 @@
 			}, {
 				"name": "Indiana Jones. En busca del arca perdida (1981)",
 				"image": "https://cdn.sincroguia.tv/uploads/programs/e/n/-/en-busca-del-arca-perdida-poster-6660_SPA-13_V.jpg",
-				"url": "https://upstream.to/dgeoe6ys9jgp",
+				"url": "https://gamovideo.net/opyyehuxaknr",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Indiana Jones y el templo maldito (1984)",
 				"image": "https://pics.filmaffinity.com/Indiana_Jones_y_el_templo_maldito-764192654-large.jpg",
-				"url": "https://upstream.to/xey1wicxvwef",
+				"url": "https://gamovideo.net/pveuslejz1mi",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Indiana Jones y la última cruzada (1989)",
 				"image": "https://www.ecured.cu/images/5/5c/Indiana_jones_y_la_ultima_cruzada.jpg",
-				"url": "https://upstream.to/l82kowmiud4x",
+				"url": "https://gamovideo.net/zd2sag2jkgd2",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Indiana Jones y el reino de la calavera de cristal (2008)",
 				"image": "https://pics.filmaffinity.com/Indiana_Jones_y_el_reino_de_la_calavera_de_cristal-179929682-large.jpg",
-				"url": "https://upstream.to/ln7g44wa6k62",
+				"url": "https://gamovideo.net/pcg5jx5yr37m",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
+				"name": "Indiana Jones y el dial del destino (2023)",
+				"image": "https://static.wikia.nocookie.net/doblaje/images/b/b6/Indiana_Jones_y_el_dial_del_destino_-_P%C3%B3ster_final.jpeg/revision/latest?cb=20230602201511&path-prefix=es",
+				"url": "https://gamovideo.net/jj4yztj03mtd",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "John Wick (Otro día para matar) (2014)",
 				"image": "https://pics.filmaffinity.com/John_Wick_Otro_d_a_para_matar-471498370-large.jpg",
 				"url": "https://gamovideo.net/q2pzmb0amz0c",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "John Wick 2: Pacto de sangre (2017)",
 				"image": "https://pics.filmaffinity.com/John_Wick_Pacto_de_sangre-856013288-large.jpg",
 				"url": "https://gamovideo.net/vf1gy1wywnul",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "John Wick 3: Parabellum (2019)",
 				"image": "https://pics.filmaffinity.com/John_Wick_Cap_tulo_3_Parabellum-953528381-large.jpg",
-				"url": "https://upstream.to/ej9ff9luh8ml",
+				"url": "https://upstream.to/z898khkjot4m",
 				"isHost": "true"
 			}, {
 				"name": "Jungle Cruise (2021)",
@@ -2054,7 +2069,7 @@
 				"name": "Jurassic Park 2: El mundo perdido (1997)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/91/43/89/20145513.jpg",
 				"url": "https://gamovideo.net/arxot9fr85mj",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Jurassic Park III (2001)",
@@ -2070,13 +2085,13 @@
 				"name": "Jurassic World: El reino caído (2018)",
 				"image": "https://pics.filmaffinity.com/Jurassic_World_El_reino_ca_do-114656654-large.jpg",
 				"url": "https://gamovideo.net/cqhmr60bqmob",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Jurassic World: Dominion (2022)",
 				"image": "https://pics.filmaffinity.com/Jurassic_World_Dominion-228831206-large.jpg",
 				"url": "http://gamovideo.com/4r9w5l7xwg9x",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Karate Kid, el momento de la verdad (1984)",
@@ -2272,13 +2287,13 @@
 				"name": "Misión imposible 4 - Protocolo fantasma (2011)",
 				"image": "https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs3.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F031%2F196%2Fmision-imposible-protocolo-fantasma-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://gamovideo.net/fp050b3tvrqg",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Misión imposible 5 - Nación secreta (2015)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/7/w1280/ww0IX7Xla6tHgrwYSupfXcksV3n.jpg",
 				"url": "https://gamovideo.net/xj20pqopmbnh",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Misión imposible 6 - Fallout (2018)",
@@ -2485,12 +2500,12 @@
 				"image": "https://pics.filmaffinity.com/Sexo_en_Nueva_York_La_pel_cula-994029901-large.jpg",
 				"url": "https://upstream.to/ilqgl0e1r6eg",
 				"isHost": "true"
-			}, {
-				"name": "Sexo en Nueva York 2 (2010)",
-				"image": "https://pics.filmaffinity.com/Sexo_en_Nueva_York_2-679398251-large.jpg",
-				"url": "https://gamovideo.net/n4ao00fij9gk",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
+            }, {
+                "name": "Sexo en Nueva York 2 (2010)",
+                "image": "https://pics.filmaffinity.com/Sexo_en_Nueva_York_2-679398251-large.jpg",
+                "url": "https://gamovideo.net/n4ao00fij9gk",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost": "true"
 			}, {
 				"name": "Sherlock Holmes (2009)",
 				"image": "https://pics.filmaffinity.com/Sherlock_Holmes-617003864-large.jpg",
@@ -2640,7 +2655,7 @@
 				"name": "Superdetective en Hollywood 3 (1994)",
 				"image": "https://es.web.img3.acsta.net/pictures/14/07/24/10/08/319656.jpg",
 				"url": "https://gamovideo.net/0wlqmqgztegi",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Superman (1978)",
@@ -2766,13 +2781,13 @@
 				"name": "Venganza (2008)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/66/89/00/20198925.jpg",
 				"url": "https://gamovideo.net/4qqdq3xoouxp",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Venganza: Conexión Estambul (2014)",
 				"image": "https://pics.filmaffinity.com/Venganza_Conexi_n_Estambul-615858114-large.jpg",
 				"url": "https://gamovideo.net/owpwrjy1zbnm",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "V3nganza (2015)",
@@ -2855,7 +2870,7 @@
 				"name": "Asesinato en 8mm (1999)",
 				"image": "https://cdn.sincroguia.tv/uploads/programs/a/s/e/asesinato-en-8-mm-poster-398_SPA-43_V.jpg",
 				"url": "https://gamovideo.net/26iyaac05ax0",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Asesinato en el Orient Express (2017)",
@@ -2873,9 +2888,9 @@
 				"url": "https://upstream.to/3mpz5mf1qmdj",
 				"isHost": "true"
 			}, {
-				"name": "Avatar (2009)",
-				"image": "https://pics.filmaffinity.com/Avatar-208925608-large.jpg",
-				"url": "https://upstream.to/ooui25cpq5nl",
+				"name": "Babylon (2022)",
+				"image": "https://pics.filmaffinity.com/Babylon-747027954-large.jpg",
+				"url": "https://upstream.to/4msgn0qoexvi",
 				"isHost": "true"
 			}, {
 				"name": "¿Bailamos? (2004)",
@@ -2886,6 +2901,11 @@
 				"name": "Baila conmigo (1998)",
 				"image": "https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F004%2F468%2Fbaila-conmigo-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://upstream.to/iqashsr8uotc",
+				"isHost": "true"
+			}, {
+				"name": "Bajocero (2021)",
+				"image": "https://pics.filmaffinity.com/Bajocero-777287160-large.jpg",
+				"url": "https://upstream.to/gr7s0t8p1vew",
 				"isHost": "true"
 			}, {
 				"name": "Billy Elliot (Quiero bailar) (2000)",
@@ -2911,7 +2931,7 @@
 				"name": "Black Phone (2022)",
 				"image": "https://pics.filmaffinity.com/Black_Phone-804220392-large.jpg",
 				"url": "https://gamovideo.net/d2qtsc72dsn7",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Bohemian Rhapsody (2018)",
@@ -2977,7 +2997,7 @@
 			}, {
 				"name": "Ciudadano Kane (1941)",
 				"image": "https://pics.filmaffinity.com/Ciudadano_Kane-295214796-large.jpg",
-				"url": "https://upstream.to/cmnd2m6wlix5",
+				"url": "https://upstream.to/82qonq0idsbr",
 				"isHost": "true"
 			}, {
 				"name": "Cocoon (1985)",
@@ -2998,7 +3018,7 @@
 				"name": "Crimen perfecto (1954)",
 				"image": "https://pics.filmaffinity.com/Con_M_de_Muerte-950858474-large.jpg",
 				"url": "https://gamovideo.net/yk7dmv86vuyo",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Cristal oscuro (1982)",
@@ -3048,12 +3068,17 @@
 			}, {
 				"name": "De repente el último verano (1959)",
 				"image": "https://pics.filmaffinity.com/De_repente_el_aultimo_verano-255882572-large.jpg",
-				"url": "https://ok.ru/video/6186757458493",
+				"url": "https://ok.ru/video/2803621694145",
 				"isHost": "true"
 			}, {
 				"name": "Dirty Dancing (1987)",
 				"image": "https://pics.filmaffinity.com/Dirty_Dancing-201184884-large.jpg",
 				"url": "https://upstream.to/gctxrnududg7",
+				"isHost": "true"
+			}, {
+				"name": "Doctor Strange en el multiverso de la locura (2022)",
+				"image": "https://pics.filmaffinity.com/Doctor_Strange_en_el_multiverso_de_la_locura-750542602-large.jpg",
+				"url": "https://upstream.to/bns27ikpuxn7",
 				"isHost": "true"
 			}, {
 				"name": "Donnie Darko (2001)",
@@ -3096,6 +3121,11 @@
 				"url": "https://upstream.to/b6a6ixbf1do6",
 				"isHost": "true"
 			}, {
+				"name": "El becario (2015)",
+				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/9/w1280/bpaq572AFnI4JtufuVqcRZrlDdz.jpg",
+				"url": "https://upstream.to/1twn7g34p30g",
+				"isHost": "true"
+			}, {
 				"name": "El Cid (1961)",
 				"image": "https://decine21.com/img/upload/obras/el-cid-3231/el-cid-3231-c.jpg",
 				"url": "https://upstream.to/dt7oi9znv0q7",
@@ -3134,7 +3164,7 @@
 				"name": "El cuarto hombre (1952)",
 				"image": "https://es.web.img3.acsta.net/pictures/15/06/16/13/36/375522.jpg",
 				"url": "https://gamovideo.net/g8fq4nzirea6",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "El curioso caso de Benjamin Button (2008)",
@@ -3150,6 +3180,11 @@
 				"name": "El diario de Noa (2004)",
 				"image": "https://pics.filmaffinity.com/El_diario_de_Noa-242272771-large.jpg",
 				"url": "https://upstream.to/bj5vvqo8joat",
+				"isHost": "true"
+			}, {
+				"name": "El día después (1983)",
+				"image": "https://pics.filmaffinity.com/El_daia_despuaes_TV-413529469-large.jpg",
+				"url": "https://ok.ru/video/8060175125203",
 				"isHost": "true"
 			}, {
 				"name": "El día de mañana (2004)",
@@ -3175,6 +3210,11 @@
 				"name": "El exorcista (1973)",
 				"image": "https://pics.filmaffinity.com/El_exorcista-975882562-large.jpg",
 				"url": "https://upstream.to/9v5nk6h4p1sw",
+				"isHost": "true"
+			}, {
+				"name": "El exorcismo de Dios (2022)",
+				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+				"url": "https://vidmoly.to/embed-360qgq1yaojy.html",
 				"isHost": "true"
 			}, {
 				"name": "El faro (2019)",
@@ -3246,11 +3286,11 @@
 				"image": "https://es.web.img3.acsta.net/pictures/21/10/04/13/01/5273087.jpg",
 				"url": "https://upstream.to/2rsrwpyafmm9",
 				"isHost": "true"
-			}, {
-				"name": "El menú (2022)",
-				"image": "https://www.elseptimoarte.net/carteles/341/el_menu_94981.jpg",
-				"url": "https://upstream.to/mqlgmv01mv9d",
-				"isHost": "true"
+		    }, {     
+	            "name": "El menú (2022)",
+                "image": "https://www.elseptimoarte.net/carteles/341/el_menu_94981.jpg",
+                "url": "https://upstream.to/mqlgmv01mv9d",
+                "isHost":"true" 
 			}, {
 				"name": "El niño con el pijama de rayas (2008)",
 				"image": "https://pics.filmaffinity.com/El_ni_o_con_el_pijama_de_rayas-202478380-large.jpg",
@@ -3270,12 +3310,17 @@
 				"name": "El patriota (2000)",
 				"image": "https://es.web.img3.acsta.net/pictures/14/04/14/11/28/010393.jpg",
 				"url": "https://upstream.to/txsvyfsn9xyg",
+                "isHost": "true"
+			}, {
+				"name": "El peor vecino del mundo (2022)",
+				"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
+				"url": "https://upstream.to/byn2fnlpw1i7",
 				"isHost": "true"
 			}, {
 				"name": "El pequeño Lord (1936)",
 				"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1bd7ccdf8e6203108cefdf49805fcba9c1a9d604fb01fb0ac81840b6c6ed630f._RI_V_TTW_.jpg",
 				"url": "https://www.youtube.com/watch?v=U3_KHDY_pMY",
-				"isHost": "true"
+                "isHost": "true"
 			}, {
 				"name": "El pianista (2002)",
 				"image": "https://pics.filmaffinity.com/El_pianista-330395364-large.jpg",
@@ -3287,6 +3332,11 @@
 				"url": "https://upstream.to/jl1tmceirkz9",
 				"isHost": "true"
 			}, {
+				"name": "El primer pecado mortal (1980)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTFjOWM3NzYtZTQxYS00ODBlLThmNmQtNTQ4MGJkNzM1MDdiXkEyXkFqcGc@._V1_.jpg",
+				"url": "https://ok.ru/video/7755187227318",
+                "isHost": "true"
+			}, {
 				"name": "El príncipe de Zamunda (1988)",
 				"image": "https://cdn.sincroguia.tv/uploads/programs/e/l/-/el-principe-de-zamunda-poster-23550_SPA-85_V.jpg",
 				"url": "https://upstream.to/l014lcr7l6pg",
@@ -3295,6 +3345,11 @@
 				"name": "El puente sobre el río Kwai (1957)",
 				"image": "https://es.web.img2.acsta.net/pictures/14/04/15/09/41/124415.jpg",
 				"url": "https://upstream.to/96xhbixa9ceo",
+				"isHost": "true"
+			}, {
+				"name": "El quinto elemento (1997)",
+				"image": "https://pics.filmaffinity.com/El_quinto_elemento-108919476-large.jpg",
+				"url": "https://upstream.to/hjxw360ejb5m",
 				"isHost": "true"
 			}, {
 				"name": "El resplandor (1980)",
@@ -3438,6 +3493,11 @@
 				"url": "https://upstream.to/5ho7qn58advk",
 				"isHost": "true"
 			}, {
+				"name": "Hacia la libertad (2022)",
+				"image": "https://image.tmdb.org/t/p/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg",
+				"url": "https://upstream.to/w2rw297qm81v",
+				"isHost": "true"
+			}, {
 				"name": "Ha nacido una estrella (2018)",
 				"image": "https://es.web.img3.acsta.net/pictures/18/06/06/18/04/4900439.jpg",
 				"url": "https://upstream.to/74ufkgafwqmb",
@@ -3451,7 +3511,7 @@
 				"name": "Hotel Bombay (2019)",
 				"image": "https://es.web.img2.acsta.net/pictures/19/07/15/12/22/0999448.jpg",
 				"url": "https://gamovideo.net/ykye8iinqj1c",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Howard: Un nuevo héroe (1986)",
@@ -3472,6 +3532,11 @@
 				"name": "Invasión a la Tierra (2011)",
 				"image": "https://www.aceprensa.com/wp-content/uploads/2011/04/44943-0.jpg",
 				"url": "https://upstream.to/8srx3x0e90uk",
+				"isHost": "true"
+			}, {
+				"name": "Irati (2022)",
+				"image": "https://pics.filmaffinity.com/Irati-412669481-large.jpg",
+				"url": "https://upstream.to/snzy9krs7sbt",
 				"isHost": "true"
 			}, {
 				"name": "It (Eso) (1990)",
@@ -3518,15 +3583,15 @@
 				"image": "https://es.web.img3.acsta.net/pictures/14/05/07/13/08/344991.jpg",
 				"url": "https://upstream.to/kyd5q27wshis",
 				"isHost": "true"
+            }, { 
+                "name": "La ballena (2022)",
+                "image": "https://pics.filmaffinity.com/La_ballena_The_Whale-547391789-large.jpg",
+                "url": "https://upstream.to/rypbb9hfhmxe",
+                "isHost":"true"  
 			}, {
 				"name": "La chaqueta metálica (1987)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/90/15/35/20083253.jpg",
 				"url": "https://upstream.to/10wfmcgjzb5f",
-				"isHost": "true"
-			}, {
-				"name": "La cabaña (2017)",
-				"image": "https://pics.filmaffinity.com/La_cabaana-780836809-large.jpg",
-				"url": "https://ok.ru/video/2553826708103",
 				"isHost": "true"
 			}, {
 				"name": "La costa de los mosquitos (1986)",
@@ -3578,16 +3643,16 @@
 				"image": "https://es.web.img3.acsta.net/pictures/14/02/07/13/46/596218.jpg",
 				"url": "https://upstream.to/qegzcm3ejh5e",
 				"isHost": "true"
-			}, {
-				"name": "La milla verde (1999)",
-				"image": "https://www.elseptimoarte.net/carteles/341/la_milla_verde_48424.jpg",
-				"url": "https://upstream.to/abtaid6nltg4",
-				"isHost": "true"
-			}, {
-				"name": "La mujer de rojo (1984)",
-				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/94/26/34/20315041.jpg",
-				"url": "https://upstream.to/myguiw536hjn",
-				"isHost": "true"
+            }, {
+                "name": "La milla verde (1999)",
+                "image": "https://www.elseptimoarte.net/carteles/341/la_milla_verde_48424.jpg",
+                "url": "https://upstream.to/abtaid6nltg4",
+                "isHost":"true"
+            }, {
+                "name": "La mujer de rojo (1984)",
+                "image": "https://es.web.img3.acsta.net/medias/nmedia/18/94/26/34/20315041.jpg",
+                "url": "https://upstream.to/myguiw536hjn",
+                "isHost":"true"
 			}, {
 				"name": "La naranja mecánica (1971)",
 				"image": "https://www.ecartelera.com/carteles/3500/3515/001_m.jpg",
@@ -3597,6 +3662,11 @@
 				"name": "La profecía (1976)",
 				"image": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_617_79.jpg",
 				"url": "https://upstream.to/jzbxbkqaldqg",
+				"isHost": "true"
+			}, {
+				"name": "La soga (1948)",
+				"image": "https://pics.filmaffinity.com/La_soga-535414054-large.jpg",
+				"url": "https://upstream.to/vfxsms0277ta",
 				"isHost": "true"
 			}, {
 				"name": "La sombra del diablo (1997)",
@@ -3612,12 +3682,7 @@
 				"name": "La pasión de Cristo (V.O.S.E) (2004)",
 				"image": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F016%2F750%2Fla-pasion-de-cristo-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://gamovideo.net/5ifbz8y5cnnm",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
-			}, {
-				"name": "La ventana indiscreta (1954)",
-				"image": "https://historiasdelceluloide.elcomercio.es/wp-content/uploads/2014/06/ventana-cartel.jpg",
-				"url": "https://upstream.to/q3gpspxinlo6",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "La vida de Brian (1979)",
@@ -3670,6 +3735,11 @@
 				"url": "https://upstream.to/i6ifqvbq7gk5",
 				"isHost": "true"
 			}, {
+				"name": "Los Fabelman (2022)",
+				"image": "https://pics.filmaffinity.com/Los_Fabelman-540992417-large.jpg",
+				"url": "https://upstream.to/wuitw9khi7nu",
+				"isHost": "true"
+			}, {
 				"name": "Los intocables de Eliot Ness (1987)",
 				"image": "https://pics.filmaffinity.com/Los_intocables_de_Eliot_Ness-427104372-large.jpg",
 				"url": "https://upstream.to/x6gea4p4v05c",
@@ -3693,7 +3763,7 @@
 				"name": "Luna nueva (1940)",
 				"image": "https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F003%2F063%2Fluna-nueva-1.jpg&nuevoancho=683&medio=abc",
 				"url": "https://www.runtime.tv/es/feature/luna-nueva",
-				"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+                "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
 				"isHost": "true"
 			}, {
 				"name": "Llamada perdida (2003)",
@@ -3704,6 +3774,12 @@
 				"name": "Malditos bastardos (2009)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/8/w1280/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg",
 				"url": "https://upstream.to/aqtwi8nzhm7s",
+				"isHost": "true"
+			}, {
+				"name": "Marlowe (2022)",
+				"image": "https://pics.filmaffinity.com/Marlowe-770445566-large.jpg",
+				"url": "https://gamovideo.net/rc3pqhbawpcd",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Mars Attacks! (1996)",
@@ -3761,6 +3837,11 @@
 				"url": "https://upstream.to/i202p70s4n2r",
 				"isHost": "true"
 			}, {
+				"name": "Moonfall (2022)",
+				"image": "https://pics.filmaffinity.com/Moonfall-603240014-large.jpg",
+				"url": "https://upstream.to/sw5xfhdyh5cl",
+				"isHost": "true"
+			}, {
 				"name": "Moulin Rouge (2001)",
 				"image": "https://pics.filmaffinity.com/Moulin_Rouge-702295729-large.jpg",
 				"url": "https://upstream.to/c6prv51p5zin",
@@ -3769,6 +3850,11 @@
 				"name": "Múltiple (2016)",
 				"image": "https://pics.filmaffinity.com/Maultiple-705500058-large.jpg",
 				"url": "https://upstream.to/cdvjdf421cgy",
+				"isHost": "true"
+			}, {
+				"name": "Natividad (2006)",
+				"image": "https://es.web.img2.acsta.net/medias/nmedia/18/89/73/49/20064308.jpg",
+				"url": "https://ok.ru/video/4206175914585",
 				"isHost": "true"
 			}, {
 				"name": "Náufrago (2000)",
@@ -3786,9 +3872,19 @@
 				"url": "https://upstream.to/jt2804dr3j38",
 				"isHost": "true"
 			}, {
+				"name": "No mires a los ojos (2022)",
+				"image": "https://pics.filmaffinity.com/No_mires_a_los_ojos-999615368-large.jpg",
+				"url": "https://upstream.to/yca733sywbgi",
+				"isHost": "true"
+			}, {
 				"name": "Noche de miedo (1985)",
 				"image": "https://es.web.img3.acsta.net/medias/nmedia/18/97/40/90/20527464.jpg",
 				"url": "https://upstream.to/6cfwgighhx22",
+				"isHost": "true"
+			}, {
+				"name": "Nostalgia (2022)",
+				"image": "https://pics.filmaffinity.com/Nostalgia-449366830-large.jpg",
+				"url": "https://upstream.to/7zc26bqy5ipv",
 				"isHost": "true"
 			}, {
 				"name": "Notting Hill (1999)",
@@ -3863,7 +3959,7 @@
 			}, {
 				"name": "¡Qué bello es vivir! (1946)",
 				"image": "https://pics.filmaffinity.com/A_Qu_bello_es_vivir-245826594-large.jpg",
-				"url": "https://ok.ru/video/6353890839074",
+				"url": "https://vidmoly.to/embed-bgnlm3afwb15.html",
 				"isHost": "true"
 			}, {
 				"name": "Quo Vadis (1951)",
@@ -4066,15 +4162,14 @@
 				"url": "https://upstream.to/q3pjfambjzg3",
 				"isHost": "true"
 			}, {
-				"name": "Un amor inquebrantable (Más allá de la esperanza) (2019)",
-				"image": "https://pics.filmaffinity.com/Maas_allaa_de_la_esperanza-660453283-large.jpg",
-				"url": "https://gamovideo.net/0stgsmldyxg9",
-				"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-				"isHost": "true"
-			}, {
 				"name": "Un viaje de diez metros (2014)",
 				"image": "https://pics.filmaffinity.com/Un_viaje_de_diez_metros-885959913-large.jpg",
 				"url": "https://upstream.to/qko7qe11d8q0",
+				"isHost": "true"
+			}, {
+				"name": "Una boda explosiva (2022)",
+				"image": "https://pics.filmaffinity.com/Una_boda_explosiva-124544762-large.jpg",
+				"url": "https://upstream.to/p50mtaqjp46f",
 				"isHost": "true"
 			}, {
 				"name": "Una cuestión de tiempo (2013)",
@@ -4086,7 +4181,7 @@
 				"name": "Una historia del Bronx (1993)",
 				"image": "https://pics.filmaffinity.com/Una_historia_del_Bronx_A_Bronx_Tale-267491364-large.jpg",
 				"url": "https://www.runtime.tv/es/feature/una-historia-del-bronx",
-				"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+                "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
 				"isHost": "true"
 			}, {
 				"name": "Valkiria (2008)",
@@ -4097,11 +4192,6 @@
 				"name": "Verónica (2017)",
 				"image": "https://pics.filmaffinity.com/Veraonica-421439321-large.jpg",
 				"url": "https://upstream.to/crh3313f737t",
-				"isHost": "true"
-			}, {
-				"name": "Vértigo (1958)",
-				"image": "https://pics.filmaffinity.com/V_rtigo_De_entre_los_muertos-154050178-large.jpg",
-				"url": "https://upstream.to/f7kxclftwtqc",
 				"isHost": "true"
 			}, {
 				"name": "V de Vendetta (2005)",
@@ -4124,6 +4214,12 @@
 				"url": "https://upstream.to/gv49grjljiqj",
 				"isHost": "true"
 			}, {
+				"name": "War horse (2011)",
+				"image": "https://pics.filmaffinity.com/War_Horse_Caballo_de_batalla-925261133-large.jpg",
+				"url": "https://filemoon.sx/d/gd0d9ovrzi4l",
+                "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+				"isHost": "true"
+			}, {
 				"name": "West Side Story (1961)",
 				"image": "https://mr.comingsoon.it/imgdb/locandine/big/17489.jpg",
 				"url": "https://upstream.to/wpzpb3rq57os",
@@ -4132,7 +4228,7 @@
 				"name": "Yesterday (2019)",
 				"image": "https://pics.filmaffinity.com/Yesterday-541518094-large.jpg",
 				"url": "https://gamovideo.net/tchls6xoee8z",
-                		"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+                "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
 				"isHost": "true"
 			}, {
 				"name": "Yo, el halcón (1987)",
@@ -4140,15 +4236,28 @@
 				"url": "https://upstream.to/ij50q46ahukp",
 				"isHost": "true"
 			}, {
+				"name": "Mochipeticiones",
+				"image": "https://img1.picmix.com/output/stamp/normal/0/0/1/7/2437100_48e3e.gif",
+				"url": "https://lulu.st/d/wq37axkkdi6c",
+				"isHost": "true"
+			}, {
+				"name": "Prueba servers",
+				"image": "https://bollostore.com/wp-content/uploads/2020/10/Movie-Servers-1.jpg",
+				"url": "https://cybervynx.com/ge5nx13gi15e",
+                "userAgent": "Mozilla/5.0 (Linux; Android 11; MiTV-AFKR0 Build/RTT0.211222.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36",
+				"isHost": "true"
+			}, {
 				"name": "Pruebas",
 				"image": "https://static.vecteezy.com/system/resources/previews/005/093/329/original/most-popular-sport-illustration-free-vector.jpg",
-				"url": "https://vidmoly.to/embed-h4w0e85sp1i3.html",
-				"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+				"url": "https://filemoon.to/d/gw1j2f4lv8an",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+				"referer": "https://cloud-s8091-48-224.spcdn.cc",
 				"isHost": "true"
-			}]
+			}
+		  ]
 		},
-
-		{
+	
+	{
 			"name": "PELICULAS en ACESTREAM",
 			"image": "https://3.bp.blogspot.com/-hnePgOVK8F0/XbqlkDPKOaI/AAAAAAAAVZs/_IuMxxRB_RcDWd80LEARTDPAHhvFUGKbgCK4BGAYYCw/w1200-h630-p-k-no-nu/Ace-Stream-TV.jpg",
 			"info": "Películas de estreno. ¡¡NECESARIO ACESTREAM!!",
@@ -4182,15 +4291,20 @@
 				"image": "https://static.wikia.nocookie.net/doblaje/images/b/b6/Indiana_Jones_y_el_dial_del_destino_-_P%C3%B3ster_final.jpeg/revision/latest?cb=20230602201511&path-prefix=es",
 				"url": "acestream://122b388e0aee9d0200c31dffaddff93186f2fa22/",
 				"isHost": "true"
-           		}, { 
-               			"name": "La monja II (2023)",
-              			"image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/08/monja-ii-3116952.jpg?tf=3840x",
-                		"url": "acestream://3c7bc52d33ceeb68854de46701b852388b901a6b",
-                		"isHost":"true"  
+            }, { 
+                "name": "La monja II (2023)",
+                "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/08/monja-ii-3116952.jpg?tf=3840x",
+                "url": "acestream://3c7bc52d33ceeb68854de46701b852388b901a6b",
+                "isHost":"true"  
 			}, {
 				"name": "Los tres mosqueteros: D'Artagnan (2023)",
 				"image": "https://pics.filmaffinity.com/Los_tres_mosqueteros_D_Artagnan-865440685-large.jpg",
 				"url": "acestream://246a3444abd4ea5edc8067fe5eb108c491a83759/",
+				"isHost": "true"
+			}, {
+				"name": "Sonic 3 (2024)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzMxOTYyY2YtNzNlMy00MGEwLTg0YjUtODAwNjgyNWFmZDIwXkEyXkFqcGc@._V1_.jpg",
+				"url": "acestream://a0e65c3c8d0079306f230d50959c8a85b6ea96f1/",
 				"isHost": "true"
 			}, {
 				"name": "Super Mario Bros: La película (2023)",
@@ -4207,7 +4321,8 @@
 				"image": "https://pics.filmaffinity.com/Way_Down-682100158-large.jpg",
 				"url": "acestream://13068221359b23ff60f16e0a5e46df0e52f943b9/",
 				"isHost": "true"
-			}]
+				}
+			]
 		}
 	]
 }
