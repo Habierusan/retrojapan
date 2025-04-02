@@ -1,6 +1,6 @@
 {
-	"name": "JAVISERIES📺(Capado Vodafone)",
-	"author": "Javito  (actualizada 26/06/24)",
+	"name": "JAVISERIES Capada📺",
+	"author": "Javito  (actualizada 02/04/25)",
 	"image": "https://i.gifer.com/CZTw.gif",
 	"info": "Selección de series de Javito",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/series.w3u",
@@ -793,6 +793,14 @@
 					"online": "true",
 					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/main/KOR.m3u",
 					"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+					"import": "true"
+				}, {
+					"name": "La rosa de Versalles (Lady Óscar) (1979)",
+					"image": "https://pics.filmaffinity.com/La_Rosa_de_Versalles_Serie_de_TV-100328265-large.jpg",
+					"info": "La rosa de Versalles es una historia que se centra en Oscar François de Jarjayes, una joven que fue criada como hombre y que se convierte en capitana de la Guardia Real en el Palacio de Versalles. La serie se desarrolla en la Francia del siglo XVIII, antes de la Revolución Francesa. ",
+					"online": "true",
+					"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/refs/heads/main/LRDV.m3u",
+					"userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 					"import": "true"
 				}, {
 					"name": "Los Caballeros del Zodíaco (1986)",
