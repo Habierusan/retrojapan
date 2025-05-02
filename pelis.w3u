@@ -1,6 +1,6 @@
 {
 	"name": "JAVIPELIS Capada🎬",
-	"author": "Javito (actualizada 17/04/25)",
+	"author": "Javito (actualizada 02/05/25)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito para consumo propio. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/refs/heads/main/pelis.w3u",
@@ -216,6 +216,11 @@
                 "name": "La promesa de Irene (2024)",
                 "image": "https://www.ecartelera.com/carteles/18400/18470/001_p.webp",
                 "url": "https://vidmoly.to/obr6258wamnx",
+                "isHost":"true"  
+            }, { 
+                "name": "La rosa de Versalles (2024)",
+                "image": "https://a.storyblok.com/f/178900/849x1200/64275e3638/the-rose-of-versailles-visual.jpg/m/filters:quality(95)format(webp)",
+                "url": "https://vidmoly.to/9v24p4j7xvo5",
                 "isHost":"true"  
             }, { 
                 "name": "La sirenita (2023)",
