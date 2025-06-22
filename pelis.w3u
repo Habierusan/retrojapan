@@ -186,6 +186,8 @@
 				"name": "Harta (2025)",
 				"image": "https://m.media-amazon.com/images/M/MV5BNGNhODZmYmItYmEwNy00OWZiLWIwM2QtM2U1ZWM2ZjFiNWYzXkEyXkFqcGc@._V1_.jpg",
 				"url": "https://filemoon.to/d/f3bbiwr0ykrt",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+				"referer": "https://cloud-s8091-48-224.spcdn.cc",
 				"isHost": "true"
 			}, {
 				"name": "Jeanne du Barry (2023)",
