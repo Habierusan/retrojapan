@@ -3949,6 +3949,8 @@
 				"name": "Palmer (2021)",
 				"image": "https://pics.filmaffinity.com/Palmer-170252052-large.jpg",
 				"url": "https://filemoon.to/d/8lnz0bwskelf",
+               		        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+				"referer": "https://cloud-s8091-48-224.spcdn.cc",
 				"isHost": "true"
 			}, {
 				"name": "Peggy Sue se casó (1986)",
