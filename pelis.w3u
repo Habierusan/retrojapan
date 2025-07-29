@@ -3088,6 +3088,7 @@
 				"name": "Di que sí (2008)",
 				"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/12/w1280/pKjAyYgQsBjS1ruzmVBD0NJ2C7Y.jpg",
 				"url": "https://ok.ru/video/1201348807229",
+               		        "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 				"isHost": "true"
 			}, {
 				"name": "Dirty Dancing (1987)",
