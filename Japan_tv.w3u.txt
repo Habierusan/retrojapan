@@ -1,0 +1,7 @@
+{
+	"name": "JAPAN TV",
+	"author": "Javito (actualizada 01/10/25)",
+	"image": "https://image.winudf.com/v2/image1/amFwYW4udHZsaXZlLnNlbWVzdGF0dl9zY3JlZW5fM18xNzIxNjk2NzY2XzAzOA/screen-3.jpg?fakeurl=1&type=.jpg",
+	"info": "Canales de tv de Japón",
+	"url": "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u",
+}
