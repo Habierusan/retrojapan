@@ -1,12 +1,12 @@
 {
 	"name": "JAVIPELIS Capada🎬",
-	"author": "Javito (actualizada 02/05/25)",
+	"author": "Javito (actualizada 12/11/25)",
 	"image": "https://i.gifer.com/TwtY.gif",
 	"info": "Selección de películas de Javito para consumo propio. Sin ánimo de lucro",
 	"url": "https://raw.githubusercontent.com/Habierusan/retrojapan/refs/heads/main/pelis.w3u",
 	"groups": [{
 
-			"name": "ESTRENOS (23/24)",
+			"name": "ESTRENOS (23/24/25)",
 			"image": "https://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif",
 			"info": "Películas recientes",
 			"stations": [{
@@ -428,6 +428,12 @@
 				"name": "Transformers: El despertar de las bestias (2023)",
 				"image": "https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-570485775-large.jpg",
 				"url": "https://upstream.to/p37hgzhumszi",
+				"isHost": "true"
+			}, {
+				"name": "Un fantasma en la batalla (2025)",
+				"image": "https://www.academiadecine.com/wp-content/uploads/2025/07/Un-fantasma-en-la-batalla_cartel.jpg",
+				"url": "https://zpjid.com/d/ci34vc9rlsp7",
+       		    "userAgent" : "navigator",
 				"isHost": "true"
 			}, {
 				"name": "Vaiana 2 (2024)",
