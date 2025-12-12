@@ -2635,6 +2635,7 @@
 				"name": "Star Wars. Episodio IV: Una nueva esperanza (1977)",
 				"image": "https://m.media-amazon.com/images/I/71C+KwExtCL._SL1212_.jpg",
 				"url": "https://guxhag.com/hur6bnubib0a",
+				"userAgent" : "navigator",
 				"isHost": "true"
 			}, {
 				"name": "Star Wars. Episodio V: El imperio contraataca (1980)",
